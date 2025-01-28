@@ -2,136 +2,142 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://redeem-pepria.github.io/en/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/en/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/"
+                href="http://localhost:4321/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/"
+                href="http://localhost:4321/en/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/contact/</loc>
+    <loc>http://localhost:4321/en/contact/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/people/</loc>
+    <loc>http://localhost:4321/en/people/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/post/20-12-02-icml-best-paper/</loc>
+    <loc>http://localhost:4321/en/post/20-12-02-icml-best-paper/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/post/</loc>
+    <loc>http://localhost:4321/en/post/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/post/20-12-01-wowchemy-prize/</loc>
+    <loc>http://localhost:4321/en/post/20-12-01-wowchemy-prize/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/admin/</loc>
+    <loc>http://localhost:4321/en/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/preprint/</loc>
+    <loc>http://localhost:4321/en/publication-type/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication-type/article/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://redeem-pepria.github.io/en/authors/</loc>
+    <loc>http://localhost:4321/en/authors/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/authors/"
+                href="http://localhost:4321/fr/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/authors/"
+                href="http://localhost:4321/en/authors/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication_types/</loc>
+    <loc>http://localhost:4321/en/author/nelson-bighetti/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/en/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication_types/"
+                href="http://localhost:4321/fr/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication_types/"
+                href="http://localhost:4321/en/publication_types/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/</loc>
+    <loc>http://localhost:4321/en/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/tag/source-themes/</loc>
+    <loc>http://localhost:4321/en/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/tags/</loc>
+    <loc>http://localhost:4321/en/tags/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/tags/"
+                href="http://localhost:4321/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/tags/"
+                href="http://localhost:4321/en/tags/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/journal-article/</loc>
+    <loc>http://localhost:4321/en/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication-type/article-journal/</loc>
+    <loc>http://localhost:4321/en/publication-type/article-journal/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/robert-ford/</loc>
+    <loc>http://localhost:4321/en/author/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/conference-paper/</loc>
+    <loc>http://localhost:4321/en/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication-type/paper-conference/</loc>
+    <loc>http://localhost:4321/en/publication-type/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/admin/</loc>
+    <loc>http://localhost:4321/en/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/categories/</loc>
+    <loc>http://localhost:4321/en/categories/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/categories/"
+                href="http://localhost:4321/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/categories/"
+                href="http://localhost:4321/en/categories/"
                 />
+  </url><url>
+    <loc>http://localhost:4321/en/author/cedric-gouy-pailler/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/en/redeem/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>

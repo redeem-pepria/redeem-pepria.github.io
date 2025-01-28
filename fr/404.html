@@ -3,7 +3,7 @@
 <!-- Last Published: 28 janvier 2025 --><html lang="fr-FR" >
 
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=4321&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -62,7 +62,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
 
   
   
@@ -206,7 +206,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.37c3129fa572f6de5ff709e6da9888d2.css" />
+  <link rel="stylesheet" href="/css/wowchemy.css" />
 
   
   
@@ -269,10 +269,10 @@
 
 
 
-  <link rel="alternate" hreflang="en" href="https://redeem-pepria.github.io/en/404.html" />
+  <link rel="alternate" hreflang="en" href="http://localhost:4321/en/404.html" />
 
-<link rel="alternate" hreflang="fr-FR" href="https://redeem-pepria.github.io/fr/404.html" />
-<link rel="canonical" href="https://redeem-pepria.github.io/fr/404.html" />
+<link rel="alternate" hreflang="fr-FR" href="http://localhost:4321/fr/404.html" />
+<link rel="canonical" href="http://localhost:4321/fr/404.html" />
 
 
 
@@ -280,8 +280,8 @@
 
 
 
-<link rel="icon" type="image/png" href="/media/icon_hu_2311fe1a408f47c1.png" />
-<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_4eb7679362359773.png" />
+<link rel="icon" type="image/png" href="/media/icon_hu_ed1d4df1dea326d.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_270b37b275e8600d.png" />
 
 <meta name="theme-color" content="#1565c0" />
 
@@ -306,7 +306,7 @@
 
   <meta property="twitter:site" content="@GetResearchDev" />
   <meta property="twitter:creator" content="@GetResearchDev" />
-<meta property="twitter:image" content="https://redeem-pepria.github.io/media/icon_hu_7613a4a452ac7087.png" />
+<meta property="twitter:image" content="http://localhost:4321/media/logo_hu_81a3153741bfdea1.png" />
 
 
 
@@ -314,9 +314,9 @@
 
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Projet REDEEM" />
-<meta property="og:url" content="https://redeem-pepria.github.io/fr/404.html" />
+<meta property="og:url" content="http://localhost:4321/fr/404.html" />
 <meta property="og:title" content="404 Page not found | Projet REDEEM" />
-<meta property="og:description" content="A highly-customizable Hugo research group theme powered by Wowchemy website builder." /><meta property="og:image" content="https://redeem-pepria.github.io/media/icon_hu_7613a4a452ac7087.png" /><meta property="og:locale" content="fr-FR" />
+<meta property="og:description" content="A highly-customizable Hugo research group theme powered by Wowchemy website builder." /><meta property="og:image" content="http://localhost:4321/media/logo_hu_81a3153741bfdea1.png" /><meta property="og:locale" content="fr-FR" />
 
   
 
@@ -371,7 +371,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.4fef3e534144e9903491f0cc6527eccd.js"></script>
+  <script src="/js/wowchemy-init.min.js"></script>
 
   
 
@@ -432,6 +432,8 @@
 
 
 
+  
+
 
 <header>
   <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
@@ -439,7 +441,9 @@
 
       
       <div class="d-none d-lg-inline-flex">
-        <a class="navbar-brand" href="/fr/">Projet REDEEM</a>
+        <a class="navbar-brand" href="/fr/"><img src="/media/logo_hu_580cd68e572052dc.png" alt="Projet REDEEM"
+            
+            ></a>
       </div>
       
 
@@ -452,13 +456,15 @@
 
       
       <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-        <a class="navbar-brand" href="/fr/">Projet REDEEM</a>
+        <a class="navbar-brand" href="/fr/"><img src="/media/logo_hu_580cd68e572052dc.png" alt="Projet REDEEM"
+          
+          ></a>
       </div>
       
 
       
       
-      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
 
         
         <ul class="navbar-nav d-md-inline-flex">
@@ -626,10 +632,6 @@
         
         
         
-        <li class="nav-item">
-          <a class="nav-link js-search" href="#" aria-label="Rechercher"><i class="fas fa-search" aria-hidden="true"></i></a>
-        </li>
-        
 
         
         
@@ -638,15 +640,15 @@
         
         
         <li class="nav-item dropdown i18n-dropdown">
-          <a href="#" class="nav-link " data-toggle="dropdown"
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown"
              aria-haspopup="true" aria-label="Langues">
-            <i class="fas fa-globe mr-1" aria-hidden="true"></i></a>
+            <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">Français</span></a>
           <div class="dropdown-menu">
             <div class="dropdown-item dropdown-item-active">
               <span>Français</span>
             </div>
             
-            <a class="dropdown-item" href="https://redeem-pepria.github.io/en/404.html">
+            <a class="dropdown-item" href="http://localhost:4321/en/404.html">
               <span>English</span>
             </a>
             
@@ -786,7 +788,7 @@
   
 
 
-<script src="/js/vendor-bundle.min.50933d940896e49f984a778650d5f7f5.js"></script>
+<script src="/js/vendor-bundle.min.js"></script>
 
 
 
@@ -867,7 +869,7 @@
 <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
-  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+  <script src="/js/wowchemy-headroom.js" type="module"></script>
 
 
 
@@ -881,11 +883,11 @@
   
 
 
-<script src="/fr/js/wowchemy.min.ab07b73efd71b4cbd48c27e896073139.js"></script>
+<script src="/fr/js/wowchemy.min.js"></script>
 
 
 
-  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+  <script src="/js/wowchemy-map.js" type="module"></script>
 
 
 
