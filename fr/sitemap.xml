@@ -2,69 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/fr/authors/</loc>
+    <loc>https://redeem-pepria.github.io/fr/authors/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/en/authors/"
+                href="https://redeem-pepria.github.io/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://example.com/fr/authors/"
+                href="https://redeem-pepria.github.io/fr/authors/"
                 />
   </url><url>
-    <loc>https://example.com/fr/categories/</loc>
+    <loc>https://redeem-pepria.github.io/fr/categories/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/en/categories/"
+                href="https://redeem-pepria.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://example.com/fr/categories/"
+                href="https://redeem-pepria.github.io/fr/categories/"
                 />
   </url><url>
-    <loc>https://example.com/fr/</loc>
+    <loc>https://redeem-pepria.github.io/fr/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/en/"
+                href="https://redeem-pepria.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://example.com/fr/"
+                href="https://redeem-pepria.github.io/fr/"
                 />
   </url><url>
-    <loc>https://example.com/fr/publication_types/</loc>
+    <loc>https://redeem-pepria.github.io/fr/publication_types/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/en/publication_types/"
+                href="https://redeem-pepria.github.io/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://example.com/fr/publication_types/"
+                href="https://redeem-pepria.github.io/fr/publication_types/"
                 />
   </url><url>
-    <loc>https://example.com/fr/tags/</loc>
+    <loc>https://redeem-pepria.github.io/fr/tags/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/en/tags/"
+                href="https://redeem-pepria.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://example.com/fr/tags/"
+                href="https://redeem-pepria.github.io/fr/tags/"
                 />
   </url>
 </urlset>
