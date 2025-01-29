@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sergey Samsonov | The REDEEM project</title>
+    <link>https://redeem-pepria.github.io/en/author/sergey-samsonov/</link>
+      <atom:link href="https://redeem-pepria.github.io/en/author/sergey-samsonov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sergey Samsonov</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
+      <title>Sergey Samsonov</title>
+      <link>https://redeem-pepria.github.io/en/author/sergey-samsonov/</link>
+    </image>
+    
+    <item>
+      <title>Refined Analysis of Federated Averaging&#39;s Bias and Federated Richardson-Romberg Extrapolation</title>
+      <link>https://redeem-pepria.github.io/en/publication/mangold-refined-analysis-federated-2024/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/en/publication/mangold-refined-analysis-federated-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

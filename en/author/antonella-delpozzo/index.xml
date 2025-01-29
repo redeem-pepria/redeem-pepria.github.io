@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antonella DelPozzo | The REDEEM project</title>
+    <link>http://localhost:4321/en/author/antonella-delpozzo/</link>
+      <atom:link href="http://localhost:4321/en/author/antonella-delpozzo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Antonella DelPozzo</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:4321/en/author/antonella-delpozzo/avatar_hu_a3b0d13f6b53717.png</url>
+      <title>Antonella DelPozzo</title>
+      <link>http://localhost:4321/en/author/antonella-delpozzo/</link>
+    </image>
+    
+    <item>
+      <title>Antonella DelPozzo</title>
+      <link>http://localhost:4321/en/author/antonella-delpozzo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/en/author/antonella-delpozzo/</guid>
+      <description>&lt;p&gt;To be detailed&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
