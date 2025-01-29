@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sonia Ben Mokhtar | The REDEEM project</title>
-    <link>http://localhost:4321/en/author/sonia-ben-mokhtar/</link>
-      <atom:link href="http://localhost:4321/en/author/sonia-ben-mokhtar/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://redeem-pepria.github.io/en/author/sonia-ben-mokhtar/</link>
+      <atom:link href="https://redeem-pepria.github.io/en/author/sonia-ben-mokhtar/index.xml" rel="self" type="application/rss+xml" />
     <description>Sonia Ben Mokhtar</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/en/author/sonia-ben-mokhtar/avatar_hu_24cdf7abfad85308.jpg</url>
+      <url>https://redeem-pepria.github.io/en/author/sonia-ben-mokhtar/avatar_hu_24cdf7abfad85308.jpg</url>
       <title>Sonia Ben Mokhtar</title>
-      <link>http://localhost:4321/en/author/sonia-ben-mokhtar/</link>
+      <link>https://redeem-pepria.github.io/en/author/sonia-ben-mokhtar/</link>
     </image>
     
     <item>
       <title>Secure Federated Graph-Filtering for Recommender Systems</title>
-      <link>http://localhost:4321/en/publication/nicolas-secure-federated-graph-filtering-2025/</link>
+      <link>https://redeem-pepria.github.io/en/publication/nicolas-secure-federated-graph-filtering-2025/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/en/publication/nicolas-secure-federated-graph-filtering-2025/</guid>
+      <guid>https://redeem-pepria.github.io/en/publication/nicolas-secure-federated-graph-filtering-2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sonia Ben Mokhtar</title>
-      <link>http://localhost:4321/en/author/sonia-ben-mokhtar/</link>
+      <link>https://redeem-pepria.github.io/en/author/sonia-ben-mokhtar/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/en/author/sonia-ben-mokhtar/</guid>
+      <guid>https://redeem-pepria.github.io/en/author/sonia-ben-mokhtar/</guid>
       <description>&lt;p&gt;I have been a CNRS researcher at the LIRIS lab since October 2009. Since 2017, I am also the leader of the distributed systems and information retrieval group (DRIM). Before joining CNRS, I was a research associate at University College London (UCL) for two years, working with Licia Capra.
 I received my PhD in 2007 from University Pierre et Marie Curie (Paris 6), which I did under the supervision of Valérie Issarny and Nikolaos Georgantas in the former INRIA ARLES project-team (currently MiMove).&lt;/p&gt;
 </description>
@@ -32,17 +32,17 @@ I received my PhD in 2007 from University Pierre et Marie Curie (Paris 6), which
     
     <item>
       <title>Scrutinizing the Vulnerability of Decentralized Learning to Membership Inference Attacks</title>
-      <link>http://localhost:4321/en/publication/touat-scrutinizing-vulnerability-decentralized-2024/</link>
+      <link>https://redeem-pepria.github.io/en/publication/touat-scrutinizing-vulnerability-decentralized-2024/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/en/publication/touat-scrutinizing-vulnerability-decentralized-2024/</guid>
+      <guid>https://redeem-pepria.github.io/en/publication/touat-scrutinizing-vulnerability-decentralized-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differentially Private and Decentralized Randomized Power Method</title>
-      <link>http://localhost:4321/en/publication/nicolas-differentially-private-decentralized-2024/</link>
+      <link>https://redeem-pepria.github.io/en/publication/nicolas-differentially-private-decentralized-2024/</link>
       <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/en/publication/nicolas-differentially-private-decentralized-2024/</guid>
+      <guid>https://redeem-pepria.github.io/en/publication/nicolas-differentially-private-decentralized-2024/</guid>
       <description></description>
     </item>
     
