@@ -2,431 +2,443 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://redeem-pepria.github.io/en/authors/</loc>
+    <loc>http://localhost:4321/en/authors/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/authors/"
+                href="http://localhost:4321/fr/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/authors/"
+                href="http://localhost:4321/en/authors/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/tag/cea-distrai/</loc>
+    <loc>http://localhost:4321/en/tag/cea-distrai/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/clain-decentralized-federated-dataset-2025/</loc>
+    <loc>http://localhost:4321/en/publication/clain-decentralized-federated-dataset-2025/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/eduardo-fernandes-montesuma/</loc>
+    <loc>http://localhost:4321/en/author/eduardo-fernandes-montesuma/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/fred-maurice-ngole-mboula/</loc>
+    <loc>http://localhost:4321/en/author/fred-maurice-ngole-mboula/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication-type/paper-conference/</loc>
+    <loc>http://localhost:4321/en/publication-type/paper-conference/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication_types/</loc>
+    <loc>http://localhost:4321/en/publication_types/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication_types/"
+                href="http://localhost:4321/fr/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication_types/"
+                href="http://localhost:4321/en/publication_types/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/</loc>
+    <loc>http://localhost:4321/en/publication/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/rebecca-clain/</loc>
+    <loc>http://localhost:4321/en/author/rebecca-clain/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/tags/</loc>
+    <loc>http://localhost:4321/en/tags/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/tags/"
+                href="http://localhost:4321/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/tags/"
+                href="http://localhost:4321/en/tags/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/post/</loc>
+    <loc>http://localhost:4321/en/author/cesar-sabater/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/post/28-01-25_new-website-live/</loc>
+    <loc>http://localhost:4321/en/tag/computer-science-cryptography-and-security/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/people/</loc>
+    <loc>http://localhost:4321/en/tag/computer-science-information-retrieval/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/</loc>
+    <loc>http://localhost:4321/en/author/julien-nicolas/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/en/post/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/en/publication-type/manuscript/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/en/author/mark-coates/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/en/author/mohamed-maouche/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/en/post/28-01-25_new-website-live/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/en/people/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/en/publication/nicolas-secure-federated-graph-filtering-2025/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/en/author/sonia-ben-mokhtar/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/en/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/"
+                href="http://localhost:4321/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/"
+                href="http://localhost:4321/en/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/brandon-a-mosqueda-gonzalez/</loc>
+    <loc>http://localhost:4321/en/author/brandon-a-mosqueda-gonzalez/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/dragan-certificates-subquadratic-time-computation-2025/</loc>
+    <loc>http://localhost:4321/en/publication/dragan-certificates-subquadratic-time-computation-2025/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication-type/chapter/</loc>
+    <loc>http://localhost:4321/en/publication-type/chapter/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/tag/cnrs-liris/</loc>
+    <loc>http://localhost:4321/en/tag/cnrs-liris/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/feodor-dragan/</loc>
+    <loc>http://localhost:4321/en/author/feodor-dragan/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/guillaume-ducoffe/</loc>
+    <loc>http://localhost:4321/en/author/guillaume-ducoffe/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/tag/inria-argo/</loc>
+    <loc>http://localhost:4321/en/tag/inria-argo/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/laurent-viennot/</loc>
+    <loc>http://localhost:4321/en/author/laurent-viennot/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/lionel-brunie/</loc>
+    <loc>http://localhost:4321/en/author/lionel-brunie/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication-type/manuscript/</loc>
+    <loc>http://localhost:4321/en/author/michel-habib/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/michel-habib/</loc>
+    <loc>http://localhost:4321/en/publication/mosquedagonzalez-mitigation-sybilbased-poisoning-2025/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/mosquedagonzalez-mitigation-sybilbased-poisoning-2025/</loc>
+    <loc>http://localhost:4321/en/author/omar-hasan/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/omar-hasan/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/cesar-sabater/</loc>
+    <loc>http://localhost:4321/en/author/jezekael-brunon/</loc>
     <lastmod>2024-12-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/jezekael-brunon/</loc>
+    <loc>http://localhost:4321/en/author/ousmane-touat/</loc>
     <lastmod>2024-12-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/julien-nicolas/</loc>
+    <loc>http://localhost:4321/en/publication/touat-scrutinizing-vulnerability-decentralized-2024/</loc>
     <lastmod>2024-12-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/mohamed-maouche/</loc>
+    <loc>http://localhost:4321/en/author/yacine-belal/</loc>
     <lastmod>2024-12-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/ousmane-touat/</loc>
-    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/touat-scrutinizing-vulnerability-decentralized-2024/</loc>
-    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/sonia-ben-mokhtar/</loc>
-    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/yacine-belal/</loc>
-    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/alain-durmus/</loc>
+    <loc>http://localhost:4321/en/author/alain-durmus/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/aymeric-dieuleveut/</loc>
+    <loc>http://localhost:4321/en/author/aymeric-dieuleveut/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/eric-moulines/</loc>
+    <loc>http://localhost:4321/en/author/eric-moulines/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/paul-mangold/</loc>
+    <loc>http://localhost:4321/en/author/paul-mangold/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/mangold-refined-analysis-federated-2024/</loc>
+    <loc>http://localhost:4321/en/publication/mangold-refined-analysis-federated-2024/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/sergey-samsonov/</loc>
+    <loc>http://localhost:4321/en/author/sergey-samsonov/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/tag/x/</loc>
+    <loc>http://localhost:4321/en/tag/x/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/nicolas-differentially-private-decentralized-2024/</loc>
+    <loc>http://localhost:4321/en/publication/nicolas-differentially-private-decentralized-2024/</loc>
     <lastmod>2024-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/mark-coates/</loc>
-    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/gaucher-achieving-optimal-breakdown-2024/</loc>
+    <loc>http://localhost:4321/en/publication/gaucher-achieving-optimal-breakdown-2024/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/hadrien-hendrikx/</loc>
+    <loc>http://localhost:4321/en/author/hadrien-hendrikx/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/renaud-gaucher/</loc>
+    <loc>http://localhost:4321/en/author/renaud-gaucher/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/constantin-philippenko/</loc>
+    <loc>http://localhost:4321/en/author/constantin-philippenko/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/philippenko-indepth-analysis-lowrank-2024/</loc>
+    <loc>http://localhost:4321/en/publication/philippenko-indepth-analysis-lowrank-2024/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/kevin-scaman/</loc>
+    <loc>http://localhost:4321/en/author/kevin-scaman/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/laurent-massoulie/</loc>
+    <loc>http://localhost:4321/en/author/laurent-massoulie/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/aurelien-bellet/</loc>
+    <loc>http://localhost:4321/en/author/aurelien-bellet/</loc>
     <lastmod>2024-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/batiste-le-bars/</loc>
+    <loc>http://localhost:4321/en/author/batiste-le-bars/</loc>
     <lastmod>2024-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/giovanni-neglia/</loc>
+    <loc>http://localhost:4321/en/author/giovanni-neglia/</loc>
     <lastmod>2024-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/lebars-improved-stability-generalization-2024/</loc>
+    <loc>http://localhost:4321/en/publication/lebars-improved-stability-generalization-2024/</loc>
     <lastmod>2024-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/tag/inria-magnet/</loc>
+    <loc>http://localhost:4321/en/tag/inria-magnet/</loc>
     <lastmod>2024-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/marc-tommasi/</loc>
+    <loc>http://localhost:4321/en/author/marc-tommasi/</loc>
     <lastmod>2024-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/aigerim-zhuman/</loc>
+    <loc>http://localhost:4321/en/author/aigerim-zhuman/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/francois-portier/</loc>
+    <loc>http://localhost:4321/en/author/francois-portier/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/johan-segers/</loc>
+    <loc>http://localhost:4321/en/author/johan-segers/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/remi-leluc/</loc>
+    <loc>http://localhost:4321/en/author/remi-leluc/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/leluc-sliced-wasserstein-estimation-spherical-2024-a/</loc>
+    <loc>http://localhost:4321/en/publication/leluc-sliced-wasserstein-estimation-spherical-2024-a/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/aurelien-mayoue/</loc>
+    <loc>http://localhost:4321/en/author/aurelien-mayoue/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/jobic-extending-scope-gradient-2024-a/</loc>
+    <loc>http://localhost:4321/en/publication/jobic-extending-scope-gradient-2024-a/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/francois-terrier/</loc>
+    <loc>http://localhost:4321/en/author/francois-terrier/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/pierre-jobic/</loc>
+    <loc>http://localhost:4321/en/author/pierre-jobic/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/sara-tucci-piergiovanni/</loc>
+    <loc>http://localhost:4321/en/author/sara-tucci-piergiovanni/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/gaucher-byzantine-robust-gossip-insights-2024/</loc>
+    <loc>http://localhost:4321/en/publication/gaucher-byzantine-robust-gossip-insights-2024/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/cheuk-ting-li/</loc>
+    <loc>http://localhost:4321/en/author/cheuk-ting-li/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/hegazy-compression-exact-error-2024/</loc>
+    <loc>http://localhost:4321/en/publication/hegazy-compression-exact-error-2024/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/laetitia-kameni/</loc>
+    <loc>http://localhost:4321/en/author/laetitia-kameni/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/laurent-massoulie/</loc>
+    <loc>http://localhost:4321/en/author/laurent-massoulie/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/mahmoud-hegazy/</loc>
+    <loc>http://localhost:4321/en/author/mahmoud-hegazy/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/marco-lorenzi/</loc>
+    <loc>http://localhost:4321/en/author/marco-lorenzi/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/martin-van-waerebeke/</loc>
+    <loc>http://localhost:4321/en/author/martin-van-waerebeke/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/mathieu-even/</loc>
+    <loc>http://localhost:4321/en/author/mathieu-even/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/scaman-minimax-excess-risk-2024/</loc>
+    <loc>http://localhost:4321/en/publication/scaman-minimax-excess-risk-2024/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/richard-vidal/</loc>
+    <loc>http://localhost:4321/en/author/richard-vidal/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/fraboni-sifu-sequential-informed-2024/</loc>
+    <loc>http://localhost:4321/en/publication/fraboni-sifu-sequential-informed-2024/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/yann-fraboni/</loc>
+    <loc>http://localhost:4321/en/author/yann-fraboni/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/michael-perrot/</loc>
+    <loc>http://localhost:4321/en/author/michael-perrot/</loc>
     <lastmod>2024-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/emelianov-impact-output-perturbation-2024/</loc>
+    <loc>http://localhost:4321/en/publication/emelianov-impact-output-perturbation-2024/</loc>
     <lastmod>2024-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/vitalii-emelianov/</loc>
+    <loc>http://localhost:4321/en/author/vitalii-emelianov/</loc>
     <lastmod>2024-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/joboffer/</loc>
+    <loc>http://localhost:4321/en/joboffer/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/tag/phd/</loc>
+    <loc>http://localhost:4321/en/tag/phd/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/joboffer/test/</loc>
+    <loc>http://localhost:4321/en/joboffer/test/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/joboffer/test2/</loc>
+    <loc>http://localhost:4321/en/joboffer/test2/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/tag/postdoc/</loc>
+    <loc>http://localhost:4321/en/tag/postdoc/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/joboffer/test3/</loc>
+    <loc>http://localhost:4321/en/joboffer/test3/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/admin/</loc>
+    <loc>http://localhost:4321/en/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/antonella-del-pozzo/</loc>
+    <loc>http://localhost:4321/en/author/antonella-del-pozzo/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/categories/</loc>
+    <loc>http://localhost:4321/en/categories/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/categories/"
+                href="http://localhost:4321/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/categories/"
+                href="http://localhost:4321/en/categories/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/cedric-gouy-pailler/</loc>
+    <loc>http://localhost:4321/en/author/cedric-gouy-pailler/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/jan-ramon/</loc>
+    <loc>http://localhost:4321/en/author/jan-ramon/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/john-doe/</loc>
+    <loc>http://localhost:4321/en/author/john-doe/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/redeem/</loc>
+    <loc>http://localhost:4321/en/redeem/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

@@ -2,69 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://redeem-pepria.github.io/fr/authors/</loc>
+    <loc>http://localhost:4321/fr/authors/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/authors/"
+                href="http://localhost:4321/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/authors/"
+                href="http://localhost:4321/fr/authors/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/fr/categories/</loc>
+    <loc>http://localhost:4321/fr/categories/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/categories/"
+                href="http://localhost:4321/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/categories/"
+                href="http://localhost:4321/fr/categories/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/fr/</loc>
+    <loc>http://localhost:4321/fr/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/"
+                href="http://localhost:4321/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/"
+                href="http://localhost:4321/fr/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/fr/publication_types/</loc>
+    <loc>http://localhost:4321/fr/publication_types/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication_types/"
+                href="http://localhost:4321/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication_types/"
+                href="http://localhost:4321/fr/publication_types/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/fr/tags/</loc>
+    <loc>http://localhost:4321/fr/tags/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/tags/"
+                href="http://localhost:4321/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/tags/"
+                href="http://localhost:4321/fr/tags/"
                 />
   </url>
 </urlset>
