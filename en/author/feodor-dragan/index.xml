@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Feodor Dragan | The REDEEM project</title>
-    <link>https://redeem-pepria.github.io/en/author/feodor-dragan/</link>
-      <atom:link href="https://redeem-pepria.github.io/en/author/feodor-dragan/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/en/author/feodor-dragan/</link>
+      <atom:link href="http://localhost:4321/en/author/feodor-dragan/index.xml" rel="self" type="application/rss+xml" />
     <description>Feodor Dragan</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
+      <url>http://localhost:4321/media/logo_hu_81a3153741bfdea1.png</url>
       <title>Feodor Dragan</title>
-      <link>https://redeem-pepria.github.io/en/author/feodor-dragan/</link>
+      <link>http://localhost:4321/en/author/feodor-dragan/</link>
     </image>
     
     <item>
       <title>Certificates in P and Subquadratic-Time Computation of Radius, Diameter, and All Eccentricities in Graphs</title>
-      <link>https://redeem-pepria.github.io/en/publication/dragan-certificates-subquadratic-time-computation-2025/</link>
+      <link>http://localhost:4321/en/publication/dragan-certificates-subquadratic-time-computation-2025/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://redeem-pepria.github.io/en/publication/dragan-certificates-subquadratic-time-computation-2025/</guid>
+      <guid>http://localhost:4321/en/publication/dragan-certificates-subquadratic-time-computation-2025/</guid>
       <description></description>
     </item>
     
