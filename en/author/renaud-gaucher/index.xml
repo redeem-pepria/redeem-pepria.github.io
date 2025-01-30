@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Renaud Gaucher | The REDEEM project</title>
-    <link>http://localhost:4321/en/author/renaud-gaucher/</link>
-      <atom:link href="http://localhost:4321/en/author/renaud-gaucher/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://redeem-pepria.github.io/en/author/renaud-gaucher/</link>
+      <atom:link href="https://redeem-pepria.github.io/en/author/renaud-gaucher/index.xml" rel="self" type="application/rss+xml" />
     <description>Renaud Gaucher</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/logo_hu_81a3153741bfdea1.png</url>
+      <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
       <title>Renaud Gaucher</title>
-      <link>http://localhost:4321/en/author/renaud-gaucher/</link>
+      <link>https://redeem-pepria.github.io/en/author/renaud-gaucher/</link>
     </image>
     
     <item>
       <title>Achieving Optimal Breakdown for Byzantine Robust Gossip</title>
-      <link>http://localhost:4321/en/publication/gaucher-achieving-optimal-breakdown-2024/</link>
+      <link>https://redeem-pepria.github.io/en/publication/gaucher-achieving-optimal-breakdown-2024/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/en/publication/gaucher-achieving-optimal-breakdown-2024/</guid>
+      <guid>https://redeem-pepria.github.io/en/publication/gaucher-achieving-optimal-breakdown-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Byzantine-Robust Gossip: Insights from a Dual Approach</title>
-      <link>http://localhost:4321/en/publication/gaucher-byzantine-robust-gossip-insights-2024/</link>
+      <link>https://redeem-pepria.github.io/en/publication/gaucher-byzantine-robust-gossip-insights-2024/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/en/publication/gaucher-byzantine-robust-gossip-insights-2024/</guid>
+      <guid>https://redeem-pepria.github.io/en/publication/gaucher-byzantine-robust-gossip-insights-2024/</guid>
       <description></description>
     </item>
     

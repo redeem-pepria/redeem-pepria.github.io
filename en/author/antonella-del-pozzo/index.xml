@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antonella Del Pozzo | The REDEEM project</title>
-    <link>http://localhost:4321/en/author/antonella-del-pozzo/</link>
-      <atom:link href="http://localhost:4321/en/author/antonella-del-pozzo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://redeem-pepria.github.io/en/author/antonella-del-pozzo/</link>
+      <atom:link href="https://redeem-pepria.github.io/en/author/antonella-del-pozzo/index.xml" rel="self" type="application/rss+xml" />
     <description>Antonella Del Pozzo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:4321/en/author/antonella-del-pozzo/avatar_hu_a3b0d13f6b53717.png</url>
+      <url>https://redeem-pepria.github.io/en/author/antonella-del-pozzo/avatar_hu_a3b0d13f6b53717.png</url>
       <title>Antonella Del Pozzo</title>
-      <link>http://localhost:4321/en/author/antonella-del-pozzo/</link>
+      <link>https://redeem-pepria.github.io/en/author/antonella-del-pozzo/</link>
     </image>
     
     <item>
       <title>Antonella Del Pozzo</title>
-      <link>http://localhost:4321/en/author/antonella-del-pozzo/</link>
+      <link>https://redeem-pepria.github.io/en/author/antonella-del-pozzo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/en/author/antonella-del-pozzo/</guid>
+      <guid>https://redeem-pepria.github.io/en/author/antonella-del-pozzo/</guid>
       <description>&lt;p&gt;To be completed&lt;/p&gt;
 </description>
     </item>
