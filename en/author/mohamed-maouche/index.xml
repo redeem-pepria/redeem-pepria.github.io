@@ -7,10 +7,19 @@
     <description>Mohamed Maouche</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
+      <url>https://redeem-pepria.github.io/en/author/mohamed-maouche/avatar_hu_b736d3a1f1f468b5.jpg</url>
       <title>Mohamed Maouche</title>
       <link>https://redeem-pepria.github.io/en/author/mohamed-maouche/</link>
     </image>
+    
+    <item>
+      <title>Mohamed Maouche</title>
+      <link>https://redeem-pepria.github.io/en/author/mohamed-maouche/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/en/author/mohamed-maouche/</guid>
+      <description>&lt;p&gt;Mohamed Maouche is a researcher at Inria Lyon (ISFP) and member of the PRIVATICS team since 2022. His interest is to build robust machine learning systems that manage a good trade-off between privacy, security and utility. This includes working on data anonymization and privacy preserving machine learning with robust aggregation. Previously, he was a one-year post-doc whithin the Chaire DSVD supported by Renault and Labex IMU working on privacy issues in Federated Learning. He also spent two years as a post-doc in MAGNET Team (Inria Lille) to work on speech anonymization. He defended his PhD from Insa Lyon in 2019 on the subject of Location privacy.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Secure Federated Graph-Filtering for Recommender Systems</title>
