@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The REDEEM Project | Projet REDEEM</title>
-    <link>https://redeem-pepria.github.io/fr/redeem/</link>
-      <atom:link href="https://redeem-pepria.github.io/fr/redeem/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/fr/redeem/</link>
+      <atom:link href="http://localhost:4321/fr/redeem/index.xml" rel="self" type="application/rss+xml" />
     <description>The REDEEM Project</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language>
     <image>
-      <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
+      <url>http://localhost:4321/media/logo_hu_81a3153741bfdea1.png</url>
       <title>The REDEEM Project</title>
-      <link>https://redeem-pepria.github.io/fr/redeem/</link>
+      <link>http://localhost:4321/fr/redeem/</link>
     </image>
     
   </channel>

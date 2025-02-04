@@ -2,21 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latest News | The REDEEM project</title>
-    <link>https://redeem-pepria.github.io/en/post/</link>
-      <atom:link href="https://redeem-pepria.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/en/post/</link>
+      <atom:link href="http://localhost:4321/en/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
+      <url>http://localhost:4321/media/logo_hu_81a3153741bfdea1.png</url>
       <title>Latest News</title>
-      <link>https://redeem-pepria.github.io/en/post/</link>
+      <link>http://localhost:4321/en/post/</link>
     </image>
     
     <item>
+      <title>Join us at AI Action Summit 6-7/02/2025 at Ecole Polytechnique</title>
+      <link>http://localhost:4321/en/post/06-02-25_aiactionsummit/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/en/post/06-02-25_aiactionsummit/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Conference AI, Science, and Society&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are excited to share that the &lt;strong&gt;REDEEM project&lt;/strong&gt; will be actively represented at the upcoming &lt;strong&gt;&lt;a href=&#34;http://aiconference.ip-paris.fr/program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AI Conference 2025&lt;/a&gt;&lt;/strong&gt; at IP Paris!&lt;/p&gt;
+&lt;h4 id=&#34;session-on-trustworthy-ai&#34;&gt;Session on Trustworthy AI&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Aymeric Dieuleveut&lt;/strong&gt; will contribute to the discussion on &lt;strong&gt;trustworthy AI&lt;/strong&gt;, providing insights into the latest advancements in secure and reliable AI systems.&lt;/p&gt;
+&lt;h4 id=&#34;poster-session&#34;&gt;Poster Session&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Batiste Le Bars&lt;/strong&gt; (INRIA) will present his work on &lt;em&gt;&amp;ldquo;Improved Stability and Generalization Guarantees of the Decentralized SGD Algorithm.&amp;rdquo;&lt;/em&gt;&lt;br&gt;
+This research challenges prior claims on decentralized learning, demonstrating that decentralized stochastic gradient descent (SGD) can match centralized approaches in generalization while benefiting from communication-aware optimizations.&lt;/p&gt;
+&lt;p&gt;Join us at &lt;strong&gt;&lt;a href=&#34;http://aiconference.ip-paris.fr/program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AI Conference 2025&lt;/a&gt;&lt;/strong&gt; to engage with cutting-edge research in AI, federated learning, and decentralized optimization!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>New Preprint Available</title>
-      <link>https://redeem-pepria.github.io/en/post/29-01-25_new-preprint-available/</link>
+      <link>http://localhost:4321/en/post/29-01-25_new-preprint-available/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://redeem-pepria.github.io/en/post/29-01-25_new-preprint-available/</guid>
+      <guid>http://localhost:4321/en/post/29-01-25_new-preprint-available/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Secure Federated Graph-Filtering for Recommender Systems&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Recommender systems rely on graph-based filters, but their centralized computation poses privacy and security risks. Our work introduces two decentralized frameworks that securely compute key graph components without centralizing user data. Leveraging Multi-Party Computation and distributed spectral methods, we ensure privacy while maintaining predictive accuracy. Our second approach further optimizes efficiency through low-rank approximations, balancing performance and communication costs. Experiments on benchmark datasets show that our methods match state-of-the-art accuracy while preserving data confidentiality. This work paves the way for privacy-preserving, decentralized recommender architectures.&lt;/p&gt;
 &lt;ul&gt;
@@ -24,7 +40,7 @@
 &lt;p&gt;You can already read this publication on &lt;a href=&#34;https://arxiv.org/abs/2501.16888&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arxiv: Secure Federated Graph-Filtering for Recommender Systems&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Scientific Publications&lt;/strong&gt;: Stay updated with the latest research outputs from our team, published in top-tier conferences and journals. &lt;a href=&#34;https://redeem-pepria.github.io/en/publication/&#34;&gt;Publications&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Scientific Publications&lt;/strong&gt;: Stay updated with the latest research outputs from our team, published in top-tier conferences and journals. &lt;a href=&#34;http://localhost:4321/en/publication/&#34;&gt;Publications&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -32,15 +48,15 @@
     
     <item>
       <title>Our New REDEEM Website is Live!</title>
-      <link>https://redeem-pepria.github.io/en/post/28-01-25_new-website-live/</link>
+      <link>http://localhost:4321/en/post/28-01-25_new-website-live/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://redeem-pepria.github.io/en/post/28-01-25_new-website-live/</guid>
+      <guid>http://localhost:4321/en/post/28-01-25_new-website-live/</guid>
       <description>&lt;p&gt;We’re thrilled to announce that the new &lt;strong&gt;REDEEM Project website&lt;/strong&gt; is officially live!&lt;/p&gt;
 &lt;p&gt;Explore everything about the REDEEM project, including:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Project Description&lt;/strong&gt;: Learn about our mission to advance decentralized, privacy-preserving, and resilient AI systems. &lt;a href=&#34;https://redeem-pepria.github.io/en/redeem/&#34;&gt;Project description&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Scientific Publications&lt;/strong&gt;: Stay updated with the latest research outputs from our team, published in top-tier conferences and journals. &lt;a href=&#34;https://redeem-pepria.github.io/en/publication/&#34;&gt;Publications&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Job Opportunities&lt;/strong&gt;: Want to work with us? Discover open positions in our team, including exciting PhD and postdoctoral opportunities. &lt;a href=&#34;https://redeem-pepria.github.io/en/joboffer/&#34;&gt;Job opportunities&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project Description&lt;/strong&gt;: Learn about our mission to advance decentralized, privacy-preserving, and resilient AI systems. &lt;a href=&#34;http://localhost:4321/en/redeem/&#34;&gt;Project description&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scientific Publications&lt;/strong&gt;: Stay updated with the latest research outputs from our team, published in top-tier conferences and journals. &lt;a href=&#34;http://localhost:4321/en/publication/&#34;&gt;Publications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Job Opportunities&lt;/strong&gt;: Want to work with us? Discover open positions in our team, including exciting PhD and postdoctoral opportunities. &lt;a href=&#34;http://localhost:4321/en/joboffer/&#34;&gt;Job opportunities&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;We’ll continue to update the site regularly with news, publications, and opportunities. Make sure to bookmark it and follow our journey!&lt;/p&gt;
 &lt;p&gt;Thank you for your support,&lt;br&gt;

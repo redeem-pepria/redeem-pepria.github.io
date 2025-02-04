@@ -2,1413 +2,1428 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://redeem-pepria.github.io/en/authors/</loc>
+    <loc>http://localhost:4321/en/authors/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/authors/"
+                href="http://localhost:4321/fr/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/authors/"
+                href="http://localhost:4321/en/authors/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/tag/cea-distrai/</loc>
+    <loc>http://localhost:4321/en/tag/cea-distrai/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/tag/cea-distrai/"
+                href="http://localhost:4321/fr/tag/cea-distrai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/tag/cea-distrai/"
+                href="http://localhost:4321/en/tag/cea-distrai/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/clain-decentralized-federated-dataset-2025/</loc>
+    <loc>http://localhost:4321/en/publication/clain-decentralized-federated-dataset-2025/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication/clain-decentralized-federated-dataset-2025/"
+                href="http://localhost:4321/fr/publication/clain-decentralized-federated-dataset-2025/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication/clain-decentralized-federated-dataset-2025/"
+                href="http://localhost:4321/en/publication/clain-decentralized-federated-dataset-2025/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/eduardo-fernandes-montesuma/</loc>
+    <loc>http://localhost:4321/en/author/eduardo-fernandes-montesuma/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/eduardo-fernandes-montesuma/"
+                href="http://localhost:4321/fr/author/eduardo-fernandes-montesuma/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/eduardo-fernandes-montesuma/"
+                href="http://localhost:4321/en/author/eduardo-fernandes-montesuma/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/fred-maurice-ngole-mboula/</loc>
+    <loc>http://localhost:4321/en/author/fred-maurice-ngole-mboula/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/fred-maurice-ngole-mboula/"
+                href="http://localhost:4321/fr/author/fred-maurice-ngole-mboula/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/fred-maurice-ngole-mboula/"
+                href="http://localhost:4321/en/author/fred-maurice-ngole-mboula/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication-type/paper-conference/</loc>
+    <loc>http://localhost:4321/en/publication-type/paper-conference/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication-type/paper-conference/"
+                href="http://localhost:4321/fr/publication-type/paper-conference/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication-type/paper-conference/"
+                href="http://localhost:4321/en/publication-type/paper-conference/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication_types/</loc>
+    <loc>http://localhost:4321/en/publication_types/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication_types/"
+                href="http://localhost:4321/fr/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication_types/"
+                href="http://localhost:4321/en/publication_types/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/</loc>
+    <loc>http://localhost:4321/en/publication/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication/"
+                href="http://localhost:4321/fr/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication/"
+                href="http://localhost:4321/en/publication/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/rebecca-clain/</loc>
+    <loc>http://localhost:4321/en/author/rebecca-clain/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/rebecca-clain/"
+                href="http://localhost:4321/fr/author/rebecca-clain/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/rebecca-clain/"
+                href="http://localhost:4321/en/author/rebecca-clain/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/tags/</loc>
+    <loc>http://localhost:4321/en/tags/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/tags/"
+                href="http://localhost:4321/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/tags/"
+                href="http://localhost:4321/en/tags/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/post/</loc>
+    <loc>http://localhost:4321/en/author/cedric-gouy-pailler/</loc>
     <lastmod>2025-02-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/post/"
+                href="http://localhost:4321/fr/author/cedric-gouy-pailler/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/post/"
+                href="http://localhost:4321/en/author/cedric-gouy-pailler/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/julien-nicolas/</loc>
+    <loc>http://localhost:4321/en/post/06-02-25_aiactionsummit/</loc>
+    <lastmod>2025-02-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:4321/fr/post/06-02-25_aiactionsummit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:4321/en/post/06-02-25_aiactionsummit/"
+                />
+  </url><url>
+    <loc>http://localhost:4321/en/post/</loc>
+    <lastmod>2025-02-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:4321/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:4321/en/post/"
+                />
+  </url><url>
+    <loc>http://localhost:4321/en/author/julien-nicolas/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/julien-nicolas/"
+                href="http://localhost:4321/fr/author/julien-nicolas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/julien-nicolas/"
+                href="http://localhost:4321/en/author/julien-nicolas/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/post/29-01-25_new-preprint-available/</loc>
+    <loc>http://localhost:4321/en/post/29-01-25_new-preprint-available/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/post/29-01-25_new-preprint-available/"
+                href="http://localhost:4321/fr/post/29-01-25_new-preprint-available/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/post/29-01-25_new-preprint-available/"
+                href="http://localhost:4321/en/post/29-01-25_new-preprint-available/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/cesar-sabater/</loc>
+    <loc>http://localhost:4321/en/author/cesar-sabater/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/cesar-sabater/"
+                href="http://localhost:4321/fr/author/cesar-sabater/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/cesar-sabater/"
+                href="http://localhost:4321/en/author/cesar-sabater/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/tag/computer-science-cryptography-and-security/</loc>
+    <loc>http://localhost:4321/en/tag/computer-science-cryptography-and-security/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/tag/computer-science-cryptography-and-security/"
+                href="http://localhost:4321/fr/tag/computer-science-cryptography-and-security/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/tag/computer-science-cryptography-and-security/"
+                href="http://localhost:4321/en/tag/computer-science-cryptography-and-security/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/tag/computer-science-information-retrieval/</loc>
+    <loc>http://localhost:4321/en/tag/computer-science-information-retrieval/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/tag/computer-science-information-retrieval/"
+                href="http://localhost:4321/fr/tag/computer-science-information-retrieval/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/tag/computer-science-information-retrieval/"
+                href="http://localhost:4321/en/tag/computer-science-information-retrieval/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication-type/manuscript/</loc>
+    <loc>http://localhost:4321/en/publication-type/manuscript/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication-type/manuscript/"
+                href="http://localhost:4321/fr/publication-type/manuscript/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication-type/manuscript/"
+                href="http://localhost:4321/en/publication-type/manuscript/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/mark-coates/</loc>
+    <loc>http://localhost:4321/en/author/mark-coates/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/mark-coates/"
+                href="http://localhost:4321/fr/author/mark-coates/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/mark-coates/"
+                href="http://localhost:4321/en/author/mark-coates/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/mohamed-maouche/</loc>
+    <loc>http://localhost:4321/en/author/mohamed-maouche/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/mohamed-maouche/"
+                href="http://localhost:4321/fr/author/mohamed-maouche/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/mohamed-maouche/"
+                href="http://localhost:4321/en/author/mohamed-maouche/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/post/28-01-25_new-website-live/</loc>
+    <loc>http://localhost:4321/en/post/28-01-25_new-website-live/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/post/28-01-25_new-website-live/"
+                href="http://localhost:4321/fr/post/28-01-25_new-website-live/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/post/28-01-25_new-website-live/"
+                href="http://localhost:4321/en/post/28-01-25_new-website-live/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/people/</loc>
+    <loc>http://localhost:4321/en/people/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/people/"
+                href="http://localhost:4321/fr/people/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/people/"
+                href="http://localhost:4321/en/people/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/nicolas-secure-federated-graph-filtering-2025/</loc>
+    <loc>http://localhost:4321/en/publication/nicolas-secure-federated-graph-filtering-2025/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication/nicolas-secure-federated-graph-filtering-2025/"
+                href="http://localhost:4321/fr/publication/nicolas-secure-federated-graph-filtering-2025/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication/nicolas-secure-federated-graph-filtering-2025/"
+                href="http://localhost:4321/en/publication/nicolas-secure-federated-graph-filtering-2025/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/sonia-ben-mokhtar/</loc>
+    <loc>http://localhost:4321/en/author/sonia-ben-mokhtar/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/sonia-ben-mokhtar/"
+                href="http://localhost:4321/fr/author/sonia-ben-mokhtar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/sonia-ben-mokhtar/"
+                href="http://localhost:4321/en/author/sonia-ben-mokhtar/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/</loc>
+    <loc>http://localhost:4321/en/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/"
+                href="http://localhost:4321/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/"
+                href="http://localhost:4321/en/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/brandon-a.-mosqueda-gonzalez/</loc>
+    <loc>http://localhost:4321/en/author/brandon-a.-mosqueda-gonzalez/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/brandon-a.-mosqueda-gonzalez/"
+                href="http://localhost:4321/fr/author/brandon-a.-mosqueda-gonzalez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/brandon-a.-mosqueda-gonzalez/"
+                href="http://localhost:4321/en/author/brandon-a.-mosqueda-gonzalez/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/dragan-certificates-subquadratic-time-computation-2025/</loc>
+    <loc>http://localhost:4321/en/publication/dragan-certificates-subquadratic-time-computation-2025/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication/dragan-certificates-subquadratic-time-computation-2025/"
+                href="http://localhost:4321/fr/publication/dragan-certificates-subquadratic-time-computation-2025/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication/dragan-certificates-subquadratic-time-computation-2025/"
+                href="http://localhost:4321/en/publication/dragan-certificates-subquadratic-time-computation-2025/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication-type/chapter/</loc>
+    <loc>http://localhost:4321/en/publication-type/chapter/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication-type/chapter/"
+                href="http://localhost:4321/fr/publication-type/chapter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication-type/chapter/"
+                href="http://localhost:4321/en/publication-type/chapter/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/tag/cnrs-liris/</loc>
+    <loc>http://localhost:4321/en/tag/cnrs-liris/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/tag/cnrs-liris/"
+                href="http://localhost:4321/fr/tag/cnrs-liris/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/tag/cnrs-liris/"
+                href="http://localhost:4321/en/tag/cnrs-liris/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/feodor-dragan/</loc>
+    <loc>http://localhost:4321/en/author/feodor-dragan/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/feodor-dragan/"
+                href="http://localhost:4321/fr/author/feodor-dragan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/feodor-dragan/"
+                href="http://localhost:4321/en/author/feodor-dragan/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/guillaume-ducoffe/</loc>
+    <loc>http://localhost:4321/en/author/guillaume-ducoffe/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/guillaume-ducoffe/"
+                href="http://localhost:4321/fr/author/guillaume-ducoffe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/guillaume-ducoffe/"
+                href="http://localhost:4321/en/author/guillaume-ducoffe/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/tag/inria-argo/</loc>
+    <loc>http://localhost:4321/en/tag/inria-argo/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/tag/inria-argo/"
+                href="http://localhost:4321/fr/tag/inria-argo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/tag/inria-argo/"
+                href="http://localhost:4321/en/tag/inria-argo/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/laurent-viennot/</loc>
+    <loc>http://localhost:4321/en/author/laurent-viennot/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/laurent-viennot/"
+                href="http://localhost:4321/fr/author/laurent-viennot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/laurent-viennot/"
+                href="http://localhost:4321/en/author/laurent-viennot/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/lionel-brunie/</loc>
+    <loc>http://localhost:4321/en/author/lionel-brunie/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/lionel-brunie/"
+                href="http://localhost:4321/fr/author/lionel-brunie/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/lionel-brunie/"
+                href="http://localhost:4321/en/author/lionel-brunie/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/michel-habib/</loc>
+    <loc>http://localhost:4321/en/author/michel-habib/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/michel-habib/"
+                href="http://localhost:4321/fr/author/michel-habib/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/michel-habib/"
+                href="http://localhost:4321/en/author/michel-habib/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/mosquedagonzalez-mitigation-sybilbased-poisoning-2025/</loc>
+    <loc>http://localhost:4321/en/publication/mosquedagonzalez-mitigation-sybilbased-poisoning-2025/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication/mosquedagonzalez-mitigation-sybilbased-poisoning-2025/"
+                href="http://localhost:4321/fr/publication/mosquedagonzalez-mitigation-sybilbased-poisoning-2025/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication/mosquedagonzalez-mitigation-sybilbased-poisoning-2025/"
+                href="http://localhost:4321/en/publication/mosquedagonzalez-mitigation-sybilbased-poisoning-2025/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/omar-hasan/</loc>
+    <loc>http://localhost:4321/en/author/omar-hasan/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/omar-hasan/"
+                href="http://localhost:4321/fr/author/omar-hasan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/omar-hasan/"
+                href="http://localhost:4321/en/author/omar-hasan/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/jezekael-brunon/</loc>
+    <loc>http://localhost:4321/en/author/jezekael-brunon/</loc>
     <lastmod>2024-12-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/jezekael-brunon/"
+                href="http://localhost:4321/fr/author/jezekael-brunon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/jezekael-brunon/"
+                href="http://localhost:4321/en/author/jezekael-brunon/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/ousmane-touat/</loc>
+    <loc>http://localhost:4321/en/author/ousmane-touat/</loc>
     <lastmod>2024-12-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/ousmane-touat/"
+                href="http://localhost:4321/fr/author/ousmane-touat/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/ousmane-touat/"
+                href="http://localhost:4321/en/author/ousmane-touat/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/touat-scrutinizing-vulnerability-decentralized-2024/</loc>
+    <loc>http://localhost:4321/en/publication/touat-scrutinizing-vulnerability-decentralized-2024/</loc>
     <lastmod>2024-12-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication/touat-scrutinizing-vulnerability-decentralized-2024/"
+                href="http://localhost:4321/fr/publication/touat-scrutinizing-vulnerability-decentralized-2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication/touat-scrutinizing-vulnerability-decentralized-2024/"
+                href="http://localhost:4321/en/publication/touat-scrutinizing-vulnerability-decentralized-2024/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/yacine-belal/</loc>
+    <loc>http://localhost:4321/en/author/yacine-belal/</loc>
     <lastmod>2024-12-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/yacine-belal/"
+                href="http://localhost:4321/fr/author/yacine-belal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/yacine-belal/"
+                href="http://localhost:4321/en/author/yacine-belal/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/alain-durmus/</loc>
+    <loc>http://localhost:4321/en/author/alain-durmus/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/alain-durmus/"
+                href="http://localhost:4321/fr/author/alain-durmus/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/alain-durmus/"
+                href="http://localhost:4321/en/author/alain-durmus/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/aymeric-dieuleveut/</loc>
+    <loc>http://localhost:4321/en/author/aymeric-dieuleveut/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/aymeric-dieuleveut/"
+                href="http://localhost:4321/fr/author/aymeric-dieuleveut/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/aymeric-dieuleveut/"
+                href="http://localhost:4321/en/author/aymeric-dieuleveut/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/eric-moulines/</loc>
+    <loc>http://localhost:4321/en/author/eric-moulines/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/eric-moulines/"
+                href="http://localhost:4321/fr/author/eric-moulines/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/eric-moulines/"
+                href="http://localhost:4321/en/author/eric-moulines/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/paul-mangold/</loc>
+    <loc>http://localhost:4321/en/author/paul-mangold/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/paul-mangold/"
+                href="http://localhost:4321/fr/author/paul-mangold/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/paul-mangold/"
+                href="http://localhost:4321/en/author/paul-mangold/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/mangold-refined-analysis-federated-2024/</loc>
+    <loc>http://localhost:4321/en/publication/mangold-refined-analysis-federated-2024/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication/mangold-refined-analysis-federated-2024/"
+                href="http://localhost:4321/fr/publication/mangold-refined-analysis-federated-2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication/mangold-refined-analysis-federated-2024/"
+                href="http://localhost:4321/en/publication/mangold-refined-analysis-federated-2024/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/sergey-samsonov/</loc>
+    <loc>http://localhost:4321/en/author/sergey-samsonov/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/sergey-samsonov/"
+                href="http://localhost:4321/fr/author/sergey-samsonov/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/sergey-samsonov/"
+                href="http://localhost:4321/en/author/sergey-samsonov/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/tag/x/</loc>
+    <loc>http://localhost:4321/en/tag/x/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/tag/x/"
+                href="http://localhost:4321/fr/tag/x/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/tag/x/"
+                href="http://localhost:4321/en/tag/x/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/nicolas-differentially-private-decentralized-2024/</loc>
+    <loc>http://localhost:4321/en/publication/nicolas-differentially-private-decentralized-2024/</loc>
     <lastmod>2024-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication/nicolas-differentially-private-decentralized-2024/"
+                href="http://localhost:4321/fr/publication/nicolas-differentially-private-decentralized-2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication/nicolas-differentially-private-decentralized-2024/"
+                href="http://localhost:4321/en/publication/nicolas-differentially-private-decentralized-2024/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/gaucher-achieving-optimal-breakdown-2024/</loc>
+    <loc>http://localhost:4321/en/publication/gaucher-achieving-optimal-breakdown-2024/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication/gaucher-achieving-optimal-breakdown-2024/"
+                href="http://localhost:4321/fr/publication/gaucher-achieving-optimal-breakdown-2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication/gaucher-achieving-optimal-breakdown-2024/"
+                href="http://localhost:4321/en/publication/gaucher-achieving-optimal-breakdown-2024/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/hadrien-hendrikx/</loc>
+    <loc>http://localhost:4321/en/author/hadrien-hendrikx/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/hadrien-hendrikx/"
+                href="http://localhost:4321/fr/author/hadrien-hendrikx/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/hadrien-hendrikx/"
+                href="http://localhost:4321/en/author/hadrien-hendrikx/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/renaud-gaucher/</loc>
+    <loc>http://localhost:4321/en/author/renaud-gaucher/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/renaud-gaucher/"
+                href="http://localhost:4321/fr/author/renaud-gaucher/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/renaud-gaucher/"
+                href="http://localhost:4321/en/author/renaud-gaucher/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/constantin-philippenko/</loc>
+    <loc>http://localhost:4321/en/author/constantin-philippenko/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/constantin-philippenko/"
+                href="http://localhost:4321/fr/author/constantin-philippenko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/constantin-philippenko/"
+                href="http://localhost:4321/en/author/constantin-philippenko/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/philippenko-indepth-analysis-lowrank-2024/</loc>
+    <loc>http://localhost:4321/en/publication/philippenko-indepth-analysis-lowrank-2024/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication/philippenko-indepth-analysis-lowrank-2024/"
+                href="http://localhost:4321/fr/publication/philippenko-indepth-analysis-lowrank-2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication/philippenko-indepth-analysis-lowrank-2024/"
+                href="http://localhost:4321/en/publication/philippenko-indepth-analysis-lowrank-2024/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/kevin-scaman/</loc>
+    <loc>http://localhost:4321/en/author/kevin-scaman/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/kevin-scaman/"
+                href="http://localhost:4321/fr/author/kevin-scaman/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/kevin-scaman/"
+                href="http://localhost:4321/en/author/kevin-scaman/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/laurent-massoulie/</loc>
+    <loc>http://localhost:4321/en/author/laurent-massoulie/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/laurent-massoulie/"
+                href="http://localhost:4321/fr/author/laurent-massoulie/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/laurent-massoulie/"
+                href="http://localhost:4321/en/author/laurent-massoulie/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/aurelien-bellet/</loc>
+    <loc>http://localhost:4321/en/author/aurelien-bellet/</loc>
     <lastmod>2024-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/aurelien-bellet/"
+                href="http://localhost:4321/fr/author/aurelien-bellet/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/aurelien-bellet/"
+                href="http://localhost:4321/en/author/aurelien-bellet/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/batiste-le-bars/</loc>
+    <loc>http://localhost:4321/en/author/batiste-le-bars/</loc>
     <lastmod>2024-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/batiste-le-bars/"
+                href="http://localhost:4321/fr/author/batiste-le-bars/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/batiste-le-bars/"
+                href="http://localhost:4321/en/author/batiste-le-bars/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/giovanni-neglia/</loc>
+    <loc>http://localhost:4321/en/author/giovanni-neglia/</loc>
     <lastmod>2024-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/giovanni-neglia/"
+                href="http://localhost:4321/fr/author/giovanni-neglia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/giovanni-neglia/"
+                href="http://localhost:4321/en/author/giovanni-neglia/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/lebars-improved-stability-generalization-2024/</loc>
+    <loc>http://localhost:4321/en/publication/lebars-improved-stability-generalization-2024/</loc>
     <lastmod>2024-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication/lebars-improved-stability-generalization-2024/"
+                href="http://localhost:4321/fr/publication/lebars-improved-stability-generalization-2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication/lebars-improved-stability-generalization-2024/"
+                href="http://localhost:4321/en/publication/lebars-improved-stability-generalization-2024/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/tag/inria-magnet/</loc>
+    <loc>http://localhost:4321/en/tag/inria-magnet/</loc>
     <lastmod>2024-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/tag/inria-magnet/"
+                href="http://localhost:4321/fr/tag/inria-magnet/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/tag/inria-magnet/"
+                href="http://localhost:4321/en/tag/inria-magnet/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/marc-tommasi/</loc>
+    <loc>http://localhost:4321/en/author/marc-tommasi/</loc>
     <lastmod>2024-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/marc-tommasi/"
+                href="http://localhost:4321/fr/author/marc-tommasi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/marc-tommasi/"
+                href="http://localhost:4321/en/author/marc-tommasi/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/aigerim-zhuman/</loc>
+    <loc>http://localhost:4321/en/author/aigerim-zhuman/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/aigerim-zhuman/"
+                href="http://localhost:4321/fr/author/aigerim-zhuman/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/aigerim-zhuman/"
+                href="http://localhost:4321/en/author/aigerim-zhuman/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/francois-portier/</loc>
+    <loc>http://localhost:4321/en/author/francois-portier/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/francois-portier/"
+                href="http://localhost:4321/fr/author/francois-portier/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/francois-portier/"
+                href="http://localhost:4321/en/author/francois-portier/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/johan-segers/</loc>
+    <loc>http://localhost:4321/en/author/johan-segers/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/johan-segers/"
+                href="http://localhost:4321/fr/author/johan-segers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/johan-segers/"
+                href="http://localhost:4321/en/author/johan-segers/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/remi-leluc/</loc>
+    <loc>http://localhost:4321/en/author/remi-leluc/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/remi-leluc/"
+                href="http://localhost:4321/fr/author/remi-leluc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/remi-leluc/"
+                href="http://localhost:4321/en/author/remi-leluc/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/leluc-sliced-wasserstein-estimation-spherical-2024-a/</loc>
+    <loc>http://localhost:4321/en/publication/leluc-sliced-wasserstein-estimation-spherical-2024-a/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication/leluc-sliced-wasserstein-estimation-spherical-2024-a/"
+                href="http://localhost:4321/fr/publication/leluc-sliced-wasserstein-estimation-spherical-2024-a/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication/leluc-sliced-wasserstein-estimation-spherical-2024-a/"
+                href="http://localhost:4321/en/publication/leluc-sliced-wasserstein-estimation-spherical-2024-a/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/aurelien-mayoue/</loc>
+    <loc>http://localhost:4321/en/author/aurelien-mayoue/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/aurelien-mayoue/"
+                href="http://localhost:4321/fr/author/aurelien-mayoue/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/aurelien-mayoue/"
+                href="http://localhost:4321/en/author/aurelien-mayoue/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/jobic-extending-scope-gradient-2024-a/</loc>
+    <loc>http://localhost:4321/en/publication/jobic-extending-scope-gradient-2024-a/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication/jobic-extending-scope-gradient-2024-a/"
+                href="http://localhost:4321/fr/publication/jobic-extending-scope-gradient-2024-a/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication/jobic-extending-scope-gradient-2024-a/"
+                href="http://localhost:4321/en/publication/jobic-extending-scope-gradient-2024-a/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/francois-terrier/</loc>
+    <loc>http://localhost:4321/en/author/francois-terrier/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/francois-terrier/"
+                href="http://localhost:4321/fr/author/francois-terrier/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/francois-terrier/"
+                href="http://localhost:4321/en/author/francois-terrier/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/taibi-honest-fraction-differential-2024/</loc>
+    <loc>http://localhost:4321/en/publication/taibi-honest-fraction-differential-2024/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication/taibi-honest-fraction-differential-2024/"
+                href="http://localhost:4321/fr/publication/taibi-honest-fraction-differential-2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication/taibi-honest-fraction-differential-2024/"
+                href="http://localhost:4321/en/publication/taibi-honest-fraction-differential-2024/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/imane-taibi/</loc>
+    <loc>http://localhost:4321/en/author/imane-taibi/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/imane-taibi/"
+                href="http://localhost:4321/fr/author/imane-taibi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/imane-taibi/"
+                href="http://localhost:4321/en/author/imane-taibi/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/jan-ramon/</loc>
+    <loc>http://localhost:4321/en/author/jan-ramon/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/jan-ramon/"
+                href="http://localhost:4321/fr/author/jan-ramon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/jan-ramon/"
+                href="http://localhost:4321/en/author/jan-ramon/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/pierre-jobic/</loc>
+    <loc>http://localhost:4321/en/author/pierre-jobic/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/pierre-jobic/"
+                href="http://localhost:4321/fr/author/pierre-jobic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/pierre-jobic/"
+                href="http://localhost:4321/en/author/pierre-jobic/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/sara-tucci-piergiovanni/</loc>
+    <loc>http://localhost:4321/en/author/sara-tucci-piergiovanni/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/sara-tucci-piergiovanni/"
+                href="http://localhost:4321/fr/author/sara-tucci-piergiovanni/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/sara-tucci-piergiovanni/"
+                href="http://localhost:4321/en/author/sara-tucci-piergiovanni/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/gaucher-byzantine-robust-gossip-insights-2024/</loc>
+    <loc>http://localhost:4321/en/publication/gaucher-byzantine-robust-gossip-insights-2024/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication/gaucher-byzantine-robust-gossip-insights-2024/"
+                href="http://localhost:4321/fr/publication/gaucher-byzantine-robust-gossip-insights-2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication/gaucher-byzantine-robust-gossip-insights-2024/"
+                href="http://localhost:4321/en/publication/gaucher-byzantine-robust-gossip-insights-2024/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/cheuk-ting-li/</loc>
+    <loc>http://localhost:4321/en/author/cheuk-ting-li/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/cheuk-ting-li/"
+                href="http://localhost:4321/fr/author/cheuk-ting-li/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/cheuk-ting-li/"
+                href="http://localhost:4321/en/author/cheuk-ting-li/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/hegazy-compression-exact-error-2024/</loc>
+    <loc>http://localhost:4321/en/publication/hegazy-compression-exact-error-2024/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication/hegazy-compression-exact-error-2024/"
+                href="http://localhost:4321/fr/publication/hegazy-compression-exact-error-2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication/hegazy-compression-exact-error-2024/"
+                href="http://localhost:4321/en/publication/hegazy-compression-exact-error-2024/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/laetitia-kameni/</loc>
+    <loc>http://localhost:4321/en/author/laetitia-kameni/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/laetitia-kameni/"
+                href="http://localhost:4321/fr/author/laetitia-kameni/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/laetitia-kameni/"
+                href="http://localhost:4321/en/author/laetitia-kameni/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/laurent-massoulie/</loc>
+    <loc>http://localhost:4321/en/author/laurent-massoulie/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/laurent-massoulie/"
+                href="http://localhost:4321/fr/author/laurent-massoulie/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/laurent-massoulie/"
+                href="http://localhost:4321/en/author/laurent-massoulie/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/mahmoud-hegazy/</loc>
+    <loc>http://localhost:4321/en/author/mahmoud-hegazy/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/mahmoud-hegazy/"
+                href="http://localhost:4321/fr/author/mahmoud-hegazy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/mahmoud-hegazy/"
+                href="http://localhost:4321/en/author/mahmoud-hegazy/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/marco-lorenzi/</loc>
+    <loc>http://localhost:4321/en/author/marco-lorenzi/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/marco-lorenzi/"
+                href="http://localhost:4321/fr/author/marco-lorenzi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/marco-lorenzi/"
+                href="http://localhost:4321/en/author/marco-lorenzi/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/martin-van-waerebeke/</loc>
+    <loc>http://localhost:4321/en/author/martin-van-waerebeke/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/martin-van-waerebeke/"
+                href="http://localhost:4321/fr/author/martin-van-waerebeke/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/martin-van-waerebeke/"
+                href="http://localhost:4321/en/author/martin-van-waerebeke/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/mathieu-even/</loc>
+    <loc>http://localhost:4321/en/author/mathieu-even/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/mathieu-even/"
+                href="http://localhost:4321/fr/author/mathieu-even/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/mathieu-even/"
+                href="http://localhost:4321/en/author/mathieu-even/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/scaman-minimax-excess-risk-2024/</loc>
+    <loc>http://localhost:4321/en/publication/scaman-minimax-excess-risk-2024/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication/scaman-minimax-excess-risk-2024/"
+                href="http://localhost:4321/fr/publication/scaman-minimax-excess-risk-2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication/scaman-minimax-excess-risk-2024/"
+                href="http://localhost:4321/en/publication/scaman-minimax-excess-risk-2024/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/richard-vidal/</loc>
+    <loc>http://localhost:4321/en/author/richard-vidal/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/richard-vidal/"
+                href="http://localhost:4321/fr/author/richard-vidal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/richard-vidal/"
+                href="http://localhost:4321/en/author/richard-vidal/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/fraboni-sifu-sequential-informed-2024/</loc>
+    <loc>http://localhost:4321/en/publication/fraboni-sifu-sequential-informed-2024/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication/fraboni-sifu-sequential-informed-2024/"
+                href="http://localhost:4321/fr/publication/fraboni-sifu-sequential-informed-2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication/fraboni-sifu-sequential-informed-2024/"
+                href="http://localhost:4321/en/publication/fraboni-sifu-sequential-informed-2024/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/yann-fraboni/</loc>
+    <loc>http://localhost:4321/en/author/yann-fraboni/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/yann-fraboni/"
+                href="http://localhost:4321/fr/author/yann-fraboni/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/yann-fraboni/"
+                href="http://localhost:4321/en/author/yann-fraboni/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/michael-perrot/</loc>
+    <loc>http://localhost:4321/en/author/michael-perrot/</loc>
     <lastmod>2024-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/michael-perrot/"
+                href="http://localhost:4321/fr/author/michael-perrot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/michael-perrot/"
+                href="http://localhost:4321/en/author/michael-perrot/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/emelianov-impact-output-perturbation-2024/</loc>
+    <loc>http://localhost:4321/en/publication/emelianov-impact-output-perturbation-2024/</loc>
     <lastmod>2024-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication/emelianov-impact-output-perturbation-2024/"
+                href="http://localhost:4321/fr/publication/emelianov-impact-output-perturbation-2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication/emelianov-impact-output-perturbation-2024/"
+                href="http://localhost:4321/en/publication/emelianov-impact-output-perturbation-2024/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/vitalii-emelianov/</loc>
+    <loc>http://localhost:4321/en/author/vitalii-emelianov/</loc>
     <lastmod>2024-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/vitalii-emelianov/"
+                href="http://localhost:4321/fr/author/vitalii-emelianov/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/vitalii-emelianov/"
+                href="http://localhost:4321/en/author/vitalii-emelianov/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/joboffer/</loc>
+    <loc>http://localhost:4321/en/joboffer/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/joboffer/"
+                href="http://localhost:4321/fr/joboffer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/joboffer/"
+                href="http://localhost:4321/en/joboffer/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/tag/phd/</loc>
+    <loc>http://localhost:4321/en/tag/phd/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/tag/phd/"
+                href="http://localhost:4321/fr/tag/phd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/tag/phd/"
+                href="http://localhost:4321/en/tag/phd/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/joboffer/test/</loc>
+    <loc>http://localhost:4321/en/joboffer/test/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/joboffer/test/"
+                href="http://localhost:4321/fr/joboffer/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/joboffer/test/"
+                href="http://localhost:4321/en/joboffer/test/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/joboffer/test2/</loc>
+    <loc>http://localhost:4321/en/joboffer/test2/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/joboffer/test2/"
+                href="http://localhost:4321/fr/joboffer/test2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/joboffer/test2/"
+                href="http://localhost:4321/en/joboffer/test2/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/tag/postdoc/</loc>
+    <loc>http://localhost:4321/en/tag/postdoc/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/tag/postdoc/"
+                href="http://localhost:4321/fr/tag/postdoc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/tag/postdoc/"
+                href="http://localhost:4321/en/tag/postdoc/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/joboffer/test3/</loc>
+    <loc>http://localhost:4321/en/joboffer/test3/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/joboffer/test3/"
+                href="http://localhost:4321/fr/joboffer/test3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/joboffer/test3/"
+                href="http://localhost:4321/en/joboffer/test3/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/admin/</loc>
+    <loc>http://localhost:4321/en/admin/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/admin/"
+                href="http://localhost:4321/fr/admin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/admin/"
+                href="http://localhost:4321/en/admin/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/antonella-del-pozzo/</loc>
+    <loc>http://localhost:4321/en/author/antonella-del-pozzo/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/antonella-del-pozzo/"
+                href="http://localhost:4321/fr/author/antonella-del-pozzo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/antonella-del-pozzo/"
+                href="http://localhost:4321/en/author/antonella-del-pozzo/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/categories/</loc>
+    <loc>http://localhost:4321/en/categories/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/categories/"
+                href="http://localhost:4321/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/categories/"
+                href="http://localhost:4321/en/categories/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/cedric-gouy-pailler/</loc>
+    <loc>http://localhost:4321/en/redeem/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/cedric-gouy-pailler/"
+                href="http://localhost:4321/fr/redeem/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/cedric-gouy-pailler/"
-                />
-  </url><url>
-    <loc>https://redeem-pepria.github.io/en/redeem/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/redeem/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/redeem/"
+                href="http://localhost:4321/en/redeem/"
                 />
   </url>
 </urlset>

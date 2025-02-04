@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ousmane Touat | Projet REDEEM</title>
-    <link>https://redeem-pepria.github.io/fr/author/ousmane-touat/</link>
-      <atom:link href="https://redeem-pepria.github.io/fr/author/ousmane-touat/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/fr/author/ousmane-touat/</link>
+      <atom:link href="http://localhost:4321/fr/author/ousmane-touat/index.xml" rel="self" type="application/rss+xml" />
     <description>Ousmane Touat</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
+      <url>http://localhost:4321/media/logo_hu_81a3153741bfdea1.png</url>
       <title>Ousmane Touat</title>
-      <link>https://redeem-pepria.github.io/fr/author/ousmane-touat/</link>
+      <link>http://localhost:4321/fr/author/ousmane-touat/</link>
     </image>
     
     <item>
       <title>Scrutinizing the Vulnerability of Decentralized Learning to Membership Inference Attacks</title>
-      <link>https://redeem-pepria.github.io/fr/publication/touat-scrutinizing-vulnerability-decentralized-2024/</link>
+      <link>http://localhost:4321/fr/publication/touat-scrutinizing-vulnerability-decentralized-2024/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://redeem-pepria.github.io/fr/publication/touat-scrutinizing-vulnerability-decentralized-2024/</guid>
+      <guid>http://localhost:4321/fr/publication/touat-scrutinizing-vulnerability-decentralized-2024/</guid>
       <description></description>
     </item>
     

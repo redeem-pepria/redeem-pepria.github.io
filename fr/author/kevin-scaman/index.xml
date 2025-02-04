@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kevin Scaman | Projet REDEEM</title>
-    <link>https://redeem-pepria.github.io/fr/author/kevin-scaman/</link>
-      <atom:link href="https://redeem-pepria.github.io/fr/author/kevin-scaman/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/fr/author/kevin-scaman/</link>
+      <atom:link href="http://localhost:4321/fr/author/kevin-scaman/index.xml" rel="self" type="application/rss+xml" />
     <description>Kevin Scaman</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Fri, 13 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://redeem-pepria.github.io/fr/author/kevin-scaman/avatar_hu_63af9df40557fbd8.jpg</url>
+      <url>http://localhost:4321/fr/author/kevin-scaman/avatar_hu_63af9df40557fbd8.jpg</url>
       <title>Kevin Scaman</title>
-      <link>https://redeem-pepria.github.io/fr/author/kevin-scaman/</link>
+      <link>http://localhost:4321/fr/author/kevin-scaman/</link>
     </image>
     
     <item>
       <title>In-Depth Analysis of Low-rank Matrix Factorisation in a Federated Setting</title>
-      <link>https://redeem-pepria.github.io/fr/publication/philippenko-indepth-analysis-lowrank-2024/</link>
+      <link>http://localhost:4321/fr/publication/philippenko-indepth-analysis-lowrank-2024/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://redeem-pepria.github.io/fr/publication/philippenko-indepth-analysis-lowrank-2024/</guid>
+      <guid>http://localhost:4321/fr/publication/philippenko-indepth-analysis-lowrank-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kevin Scaman</title>
-      <link>https://redeem-pepria.github.io/fr/author/kevin-scaman/</link>
+      <link>http://localhost:4321/fr/author/kevin-scaman/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://redeem-pepria.github.io/fr/author/kevin-scaman/</guid>
+      <guid>http://localhost:4321/fr/author/kevin-scaman/</guid>
       <description>&lt;p&gt;To be completed&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Improved Stability and Generalization Guarantees of the Decentralized SGD Algorithm</title>
-      <link>https://redeem-pepria.github.io/fr/publication/lebars-improved-stability-generalization-2024/</link>
+      <link>http://localhost:4321/fr/publication/lebars-improved-stability-generalization-2024/</link>
       <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://redeem-pepria.github.io/fr/publication/lebars-improved-stability-generalization-2024/</guid>
+      <guid>http://localhost:4321/fr/publication/lebars-improved-stability-generalization-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Minimax Excess Risk of First-Order Methods for Statistical Learning with Data-Dependent Oracles</title>
-      <link>https://redeem-pepria.github.io/fr/publication/scaman-minimax-excess-risk-2024/</link>
+      <link>http://localhost:4321/fr/publication/scaman-minimax-excess-risk-2024/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://redeem-pepria.github.io/fr/publication/scaman-minimax-excess-risk-2024/</guid>
+      <guid>http://localhost:4321/fr/publication/scaman-minimax-excess-risk-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SIFU: Sequential Informed Federated Unlearning for Efficient and Provable Client Unlearning in Federated Optimization</title>
-      <link>https://redeem-pepria.github.io/fr/publication/fraboni-sifu-sequential-informed-2024/</link>
+      <link>http://localhost:4321/fr/publication/fraboni-sifu-sequential-informed-2024/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://redeem-pepria.github.io/fr/publication/fraboni-sifu-sequential-informed-2024/</guid>
+      <guid>http://localhost:4321/fr/publication/fraboni-sifu-sequential-informed-2024/</guid>
       <description></description>
     </item>
     
