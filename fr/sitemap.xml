@@ -1428,6 +1428,19 @@
                 href="https://redeem-pepria.github.io/fr/author/antonella-del-pozzo/"
                 />
   </url><url>
+    <loc>https://redeem-pepria.github.io/fr/author/arnaud-descours/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/author/arnaud-descours/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/author/arnaud-descours/"
+                />
+  </url><url>
     <loc>https://redeem-pepria.github.io/fr/categories/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
