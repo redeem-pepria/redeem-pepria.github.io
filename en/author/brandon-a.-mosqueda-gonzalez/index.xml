@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brandon A. Mosqueda González | The REDEEM project</title>
+    <link>https://redeem-pepria.github.io/en/author/brandon-a.-mosqueda-gonzalez/</link>
+      <atom:link href="https://redeem-pepria.github.io/en/author/brandon-a.-mosqueda-gonzalez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brandon A. Mosqueda González</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
+      <title>Brandon A. Mosqueda González</title>
+      <link>https://redeem-pepria.github.io/en/author/brandon-a.-mosqueda-gonzalez/</link>
+    </image>
+    
+    <item>
+      <title>Brandon A. Mosqueda González</title>
+      <link>https://redeem-pepria.github.io/en/author/brandon-a.-mosqueda-gonzalez/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/en/author/brandon-a.-mosqueda-gonzalez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitigation of Sybil-based Poisoning Attacks in Permissionless Decentralized Learning</title>
+      <link>https://redeem-pepria.github.io/en/publication/mosquedagonzalez-mitigation-sybilbased-poisoning-2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/en/publication/mosquedagonzalez-mitigation-sybilbased-poisoning-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

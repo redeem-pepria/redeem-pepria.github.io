@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rémi Leluc | Projet REDEEM</title>
+    <link>https://redeem-pepria.github.io/fr/author/remi-leluc/</link>
+      <atom:link href="https://redeem-pepria.github.io/fr/author/remi-leluc/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rémi Leluc</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
+      <title>Rémi Leluc</title>
+      <link>https://redeem-pepria.github.io/fr/author/remi-leluc/</link>
+    </image>
+    
+    <item>
+      <title>Sliced-Wasserstein Estimation with Spherical Harmonics as Control Variates</title>
+      <link>https://redeem-pepria.github.io/fr/publication/leluc-sliced-wasserstein-estimation-spherical-2024-a/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/leluc-sliced-wasserstein-estimation-spherical-2024-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compression with Exact Error Distribution for Federated Learning</title>
+      <link>https://redeem-pepria.github.io/fr/publication/hegazy-compression-exact-error-2024/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/hegazy-compression-exact-error-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
