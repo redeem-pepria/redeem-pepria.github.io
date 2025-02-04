@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>INRIA-MAGNET | Projet REDEEM</title>
+    <link>https://redeem-pepria.github.io/fr/tag/inria-magnet/</link>
+      <atom:link href="https://redeem-pepria.github.io/fr/tag/inria-magnet/index.xml" rel="self" type="application/rss+xml" />
+    <description>INRIA-MAGNET</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Sun, 21 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
+      <title>INRIA-MAGNET</title>
+      <link>https://redeem-pepria.github.io/fr/tag/inria-magnet/</link>
+    </image>
+    
+    <item>
+      <title>Improved Stability and Generalization Guarantees of the Decentralized SGD Algorithm</title>
+      <link>https://redeem-pepria.github.io/fr/publication/lebars-improved-stability-generalization-2024/</link>
+      <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/lebars-improved-stability-generalization-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Impact of Output Perturbation on Fairness in Binary Linear Classification</title>
+      <link>https://redeem-pepria.github.io/fr/publication/emelianov-impact-output-perturbation-2024/</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/emelianov-impact-output-perturbation-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

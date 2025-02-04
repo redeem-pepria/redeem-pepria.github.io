@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michaël Perrot | Projet REDEEM</title>
+    <link>https://redeem-pepria.github.io/fr/author/michael-perrot/</link>
+      <atom:link href="https://redeem-pepria.github.io/fr/author/michael-perrot/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michaël Perrot</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Mon, 05 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
+      <title>Michaël Perrot</title>
+      <link>https://redeem-pepria.github.io/fr/author/michael-perrot/</link>
+    </image>
+    
+    <item>
+      <title>On the Impact of Output Perturbation on Fairness in Binary Linear Classification</title>
+      <link>https://redeem-pepria.github.io/fr/publication/emelianov-impact-output-perturbation-2024/</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/emelianov-impact-output-perturbation-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

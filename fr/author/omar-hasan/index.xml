@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Omar Hasan | Projet REDEEM</title>
+    <link>https://redeem-pepria.github.io/fr/author/omar-hasan/</link>
+      <atom:link href="https://redeem-pepria.github.io/fr/author/omar-hasan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Omar Hasan</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
+      <title>Omar Hasan</title>
+      <link>https://redeem-pepria.github.io/fr/author/omar-hasan/</link>
+    </image>
+    
+    <item>
+      <title>Mitigation of Sybil-based Poisoning Attacks in Permissionless Decentralized Learning</title>
+      <link>https://redeem-pepria.github.io/fr/publication/mosquedagonzalez-mitigation-sybilbased-poisoning-2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/mosquedagonzalez-mitigation-sybilbased-poisoning-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
