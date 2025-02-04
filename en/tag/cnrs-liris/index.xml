@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CNRS-LIRIS | The REDEEM project</title>
-    <link>http://localhost:4321/en/tag/cnrs-liris/</link>
-      <atom:link href="http://localhost:4321/en/tag/cnrs-liris/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://redeem-pepria.github.io/en/tag/cnrs-liris/</link>
+      <atom:link href="https://redeem-pepria.github.io/en/tag/cnrs-liris/index.xml" rel="self" type="application/rss+xml" />
     <description>CNRS-LIRIS</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/logo_hu_81a3153741bfdea1.png</url>
+      <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
       <title>CNRS-LIRIS</title>
-      <link>http://localhost:4321/en/tag/cnrs-liris/</link>
+      <link>https://redeem-pepria.github.io/en/tag/cnrs-liris/</link>
     </image>
     
     <item>
       <title>Mitigation of Sybil-based Poisoning Attacks in Permissionless Decentralized Learning</title>
-      <link>http://localhost:4321/en/publication/mosquedagonzalez-mitigation-sybilbased-poisoning-2025/</link>
+      <link>https://redeem-pepria.github.io/en/publication/mosquedagonzalez-mitigation-sybilbased-poisoning-2025/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/en/publication/mosquedagonzalez-mitigation-sybilbased-poisoning-2025/</guid>
+      <guid>https://redeem-pepria.github.io/en/publication/mosquedagonzalez-mitigation-sybilbased-poisoning-2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scrutinizing the Vulnerability of Decentralized Learning to Membership Inference Attacks</title>
-      <link>http://localhost:4321/en/publication/touat-scrutinizing-vulnerability-decentralized-2024/</link>
+      <link>https://redeem-pepria.github.io/en/publication/touat-scrutinizing-vulnerability-decentralized-2024/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/en/publication/touat-scrutinizing-vulnerability-decentralized-2024/</guid>
+      <guid>https://redeem-pepria.github.io/en/publication/touat-scrutinizing-vulnerability-decentralized-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differentially Private and Decentralized Randomized Power Method</title>
-      <link>http://localhost:4321/en/publication/nicolas-differentially-private-decentralized-2024/</link>
+      <link>https://redeem-pepria.github.io/en/publication/nicolas-differentially-private-decentralized-2024/</link>
       <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/en/publication/nicolas-differentially-private-decentralized-2024/</guid>
+      <guid>https://redeem-pepria.github.io/en/publication/nicolas-differentially-private-decentralized-2024/</guid>
       <description></description>
     </item>
     
