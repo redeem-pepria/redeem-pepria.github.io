@@ -23,9 +23,9 @@
     
     <item>
       <title>New Preprint Available</title>
-      <link>https://redeem-pepria.github.io/fr/post/29-01-25_new-preprint-available/</link>
+      <link>https://redeem-pepria.github.io/fr/post/2025-01-29_new-preprint-available/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://redeem-pepria.github.io/fr/post/29-01-25_new-preprint-available/</guid>
+      <guid>https://redeem-pepria.github.io/fr/post/2025-01-29_new-preprint-available/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Secure Federated Graph-Filtering for Recommender Systems&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Recommender systems rely on graph-based filters, but their centralized computation poses privacy and security risks. Our work introduces two decentralized frameworks that securely compute key graph components without centralizing user data. Leveraging Multi-Party Computation and distributed spectral methods, we ensure privacy while maintaining predictive accuracy. Our second approach further optimizes efficiency through low-rank approximations, balancing performance and communication costs. Experiments on benchmark datasets show that our methods match state-of-the-art accuracy while preserving data confidentiality. This work paves the way for privacy-preserving, decentralized recommender architectures.&lt;/p&gt;
 &lt;ul&gt;

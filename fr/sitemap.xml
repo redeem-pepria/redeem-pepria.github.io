@@ -142,8 +142,36 @@
                 href="https://redeem-pepria.github.io/fr/tags/"
                 />
   </url><url>
+    <loc>https://redeem-pepria.github.io/fr/author/cedric-gouy-pailler/</loc>
+    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/author/cedric-gouy-pailler/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/author/cedric-gouy-pailler/"
+                />
+  </url><url>
+    <loc>https://redeem-pepria.github.io/fr/post/2025-02-04_aiactionsummit/</loc>
+    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/post/2025-02-04_aiactionsummit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/post/2025-02-04_aiactionsummit/"
+                />
+  </url><url>
     <loc>https://redeem-pepria.github.io/fr/post/</loc>
-    <lastmod>2025-02-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -170,9 +198,19 @@
                 href="https://redeem-pepria.github.io/fr/author/julien-nicolas/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/fr/post/29-01-25_new-preprint-available/</loc>
+    <loc>https://redeem-pepria.github.io/fr/post/2025-01-29_new-preprint-available/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/post/2025-01-29_new-preprint-available/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/post/2025-01-29_new-preprint-available/"
+                />
   </url><url>
     <loc>https://redeem-pepria.github.io/fr/author/cesar-sabater/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
@@ -258,9 +296,19 @@
                 href="https://redeem-pepria.github.io/fr/author/mohamed-maouche/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/fr/post/28-01-25_new-website-live/</loc>
+    <loc>https://redeem-pepria.github.io/fr/post/2025-01-28_new-website-live/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/post/2025-01-28_new-website-live/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/post/2025-01-28_new-website-live/"
+                />
   </url><url>
     <loc>https://redeem-pepria.github.io/fr/people/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
@@ -1363,19 +1411,6 @@
                 rel="alternate"
                 hreflang="fr-FR"
                 href="https://redeem-pepria.github.io/fr/categories/"
-                />
-  </url><url>
-    <loc>https://redeem-pepria.github.io/fr/author/cedric-gouy-pailler/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/cedric-gouy-pailler/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/cedric-gouy-pailler/"
                 />
   </url><url>
     <loc>https://redeem-pepria.github.io/fr/redeem/</loc>

@@ -159,6 +159,16 @@
     <loc>https://redeem-pepria.github.io/en/post/2025-02-04_aiactionsummit/</loc>
     <lastmod>2025-02-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/post/2025-02-04_aiactionsummit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/post/2025-02-04_aiactionsummit/"
+                />
   </url><url>
     <loc>https://redeem-pepria.github.io/en/post/</loc>
     <lastmod>2025-02-04T00:00:00+00:00</lastmod>
@@ -191,6 +201,16 @@
     <loc>https://redeem-pepria.github.io/en/post/2025-01-29_new-preprint-available/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/post/2025-01-29_new-preprint-available/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/post/2025-01-29_new-preprint-available/"
+                />
   </url><url>
     <loc>https://redeem-pepria.github.io/en/author/cesar-sabater/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
@@ -279,6 +299,16 @@
     <loc>https://redeem-pepria.github.io/en/post/2025-01-28_new-website-live/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/post/2025-01-28_new-website-live/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/post/2025-01-28_new-website-live/"
+                />
   </url><url>
     <loc>https://redeem-pepria.github.io/en/people/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
