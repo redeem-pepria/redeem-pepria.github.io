@@ -14,9 +14,9 @@
     
     <item>
       <title>Join us at AI Action Summit 6-7/02/2025 at Ecole Polytechnique</title>
-      <link>https://redeem-pepria.github.io/en/post/06-02-25_aiactionsummit/</link>
+      <link>https://redeem-pepria.github.io/en/post/2025-02-04_aiactionsummit/</link>
       <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://redeem-pepria.github.io/en/post/06-02-25_aiactionsummit/</guid>
+      <guid>https://redeem-pepria.github.io/en/post/2025-02-04_aiactionsummit/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Conference AI, Science, and Society&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;We are excited to share that the &lt;strong&gt;REDEEM project&lt;/strong&gt; will be actively represented at the upcoming &lt;strong&gt;&lt;a href=&#34;http://aiconference.ip-paris.fr/program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AI Conference 2025&lt;/a&gt;&lt;/strong&gt; at IP Paris!&lt;/p&gt;
 &lt;h4 id=&#34;session-on-trustworthy-ai&#34;&gt;Session on Trustworthy AI&lt;/h4&gt;
@@ -30,9 +30,9 @@ This research challenges prior claims on decentralized learning, demonstrating t
     
     <item>
       <title>New Preprint Available</title>
-      <link>https://redeem-pepria.github.io/en/post/29-01-25_new-preprint-available/</link>
+      <link>https://redeem-pepria.github.io/en/post/2025-01-29_new-preprint-available/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://redeem-pepria.github.io/en/post/29-01-25_new-preprint-available/</guid>
+      <guid>https://redeem-pepria.github.io/en/post/2025-01-29_new-preprint-available/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Secure Federated Graph-Filtering for Recommender Systems&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Recommender systems rely on graph-based filters, but their centralized computation poses privacy and security risks. Our work introduces two decentralized frameworks that securely compute key graph components without centralizing user data. Leveraging Multi-Party Computation and distributed spectral methods, we ensure privacy while maintaining predictive accuracy. Our second approach further optimizes efficiency through low-rank approximations, balancing performance and communication costs. Experiments on benchmark datasets show that our methods match state-of-the-art accuracy while preserving data confidentiality. This work paves the way for privacy-preserving, decentralized recommender architectures.&lt;/p&gt;
 &lt;ul&gt;
@@ -48,9 +48,9 @@ This research challenges prior claims on decentralized learning, demonstrating t
     
     <item>
       <title>Our New REDEEM Website is Live!</title>
-      <link>https://redeem-pepria.github.io/en/post/28-01-25_new-website-live/</link>
+      <link>https://redeem-pepria.github.io/en/post/2025-01-28_new-website-live/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://redeem-pepria.github.io/en/post/28-01-25_new-website-live/</guid>
+      <guid>https://redeem-pepria.github.io/en/post/2025-01-28_new-website-live/</guid>
       <description>&lt;p&gt;We’re thrilled to announce that the new &lt;strong&gt;REDEEM Project website&lt;/strong&gt; is officially live!&lt;/p&gt;
 &lt;p&gt;Explore everything about the REDEEM project, including:&lt;/p&gt;
 &lt;ul&gt;
