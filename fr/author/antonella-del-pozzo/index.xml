@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antonella Del Pozzo | Projet REDEEM</title>
+    <link>https://redeem-pepria.github.io/fr/author/antonella-del-pozzo/</link>
+      <atom:link href="https://redeem-pepria.github.io/fr/author/antonella-del-pozzo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Antonella Del Pozzo</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language>
+    <image>
+      <url>https://redeem-pepria.github.io/fr/author/antonella-del-pozzo/avatar_hu_a3b0d13f6b53717.png</url>
+      <title>Antonella Del Pozzo</title>
+      <link>https://redeem-pepria.github.io/fr/author/antonella-del-pozzo/</link>
+    </image>
+    
+    <item>
+      <title>Antonella Del Pozzo</title>
+      <link>https://redeem-pepria.github.io/fr/author/antonella-del-pozzo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/author/antonella-del-pozzo/</guid>
+      <description>&lt;p&gt;To be completed&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
