@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Johan Segers | Projet REDEEM</title>
-    <link>http://localhost:4321/fr/author/johan-segers/</link>
-      <atom:link href="http://localhost:4321/fr/author/johan-segers/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://redeem-pepria.github.io/fr/author/johan-segers/</link>
+      <atom:link href="https://redeem-pepria.github.io/fr/author/johan-segers/index.xml" rel="self" type="application/rss+xml" />
     <description>Johan Segers</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/logo_hu_81a3153741bfdea1.png</url>
+      <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
       <title>Johan Segers</title>
-      <link>http://localhost:4321/fr/author/johan-segers/</link>
+      <link>https://redeem-pepria.github.io/fr/author/johan-segers/</link>
     </image>
     
     <item>
       <title>Sliced-Wasserstein Estimation with Spherical Harmonics as Control Variates</title>
-      <link>http://localhost:4321/fr/publication/leluc-sliced-wasserstein-estimation-spherical-2024-a/</link>
+      <link>https://redeem-pepria.github.io/fr/publication/leluc-sliced-wasserstein-estimation-spherical-2024-a/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/fr/publication/leluc-sliced-wasserstein-estimation-spherical-2024-a/</guid>
+      <guid>https://redeem-pepria.github.io/fr/publication/leluc-sliced-wasserstein-estimation-spherical-2024-a/</guid>
       <description></description>
     </item>
     

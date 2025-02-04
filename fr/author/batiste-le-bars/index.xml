@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Batiste Le Bars | Projet REDEEM</title>
-    <link>http://localhost:4321/fr/author/batiste-le-bars/</link>
-      <atom:link href="http://localhost:4321/fr/author/batiste-le-bars/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://redeem-pepria.github.io/fr/author/batiste-le-bars/</link>
+      <atom:link href="https://redeem-pepria.github.io/fr/author/batiste-le-bars/index.xml" rel="self" type="application/rss+xml" />
     <description>Batiste Le Bars</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Sun, 21 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/logo_hu_81a3153741bfdea1.png</url>
+      <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
       <title>Batiste Le Bars</title>
-      <link>http://localhost:4321/fr/author/batiste-le-bars/</link>
+      <link>https://redeem-pepria.github.io/fr/author/batiste-le-bars/</link>
     </image>
     
     <item>
       <title>Improved Stability and Generalization Guarantees of the Decentralized SGD Algorithm</title>
-      <link>http://localhost:4321/fr/publication/lebars-improved-stability-generalization-2024/</link>
+      <link>https://redeem-pepria.github.io/fr/publication/lebars-improved-stability-generalization-2024/</link>
       <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/fr/publication/lebars-improved-stability-generalization-2024/</guid>
+      <guid>https://redeem-pepria.github.io/fr/publication/lebars-improved-stability-generalization-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Minimax Excess Risk of First-Order Methods for Statistical Learning with Data-Dependent Oracles</title>
-      <link>http://localhost:4321/fr/publication/scaman-minimax-excess-risk-2024/</link>
+      <link>https://redeem-pepria.github.io/fr/publication/scaman-minimax-excess-risk-2024/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/fr/publication/scaman-minimax-excess-risk-2024/</guid>
+      <guid>https://redeem-pepria.github.io/fr/publication/scaman-minimax-excess-risk-2024/</guid>
       <description></description>
     </item>
     
