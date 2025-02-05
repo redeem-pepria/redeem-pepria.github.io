@@ -1441,6 +1441,19 @@
                 href="https://redeem-pepria.github.io/fr/author/arnaud-descours/"
                 />
   </url><url>
+    <loc>https://redeem-pepria.github.io/fr/author/baptiste-goujaud/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/author/baptiste-goujaud/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/author/baptiste-goujaud/"
+                />
+  </url><url>
     <loc>https://redeem-pepria.github.io/fr/categories/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
