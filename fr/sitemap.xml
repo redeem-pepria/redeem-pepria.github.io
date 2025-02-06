@@ -1467,6 +1467,19 @@
                 href="https://redeem-pepria.github.io/fr/categories/"
                 />
   </url><url>
+    <loc>https://redeem-pepria.github.io/fr/author/jean-baptiste-fest/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/author/jean-baptiste-fest/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/author/jean-baptiste-fest/"
+                />
+  </url><url>
     <loc>https://redeem-pepria.github.io/fr/redeem/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
