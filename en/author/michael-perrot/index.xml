@@ -7,10 +7,18 @@
     <description>Michaël Perrot</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
+      <url>https://redeem-pepria.github.io/en/author/michael-perrot/avatar_hu_f923f7eb9c205bbe.jpg</url>
       <title>Michaël Perrot</title>
       <link>https://redeem-pepria.github.io/en/author/michael-perrot/</link>
     </image>
+    
+    <item>
+      <title>Michaël Perrot</title>
+      <link>https://redeem-pepria.github.io/en/author/michael-perrot/</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/en/author/michael-perrot/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On the Impact of Output Perturbation on Fairness in Binary Linear Classification</title>
