@@ -7,10 +7,29 @@
     <description>Constantin Philippenko</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Fri, 13 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
+      <url>https://redeem-pepria.github.io/fr/author/constantin-philippenko/avatar_hu_c2a860b24863def7.jpg</url>
       <title>Constantin Philippenko</title>
       <link>https://redeem-pepria.github.io/fr/author/constantin-philippenko/</link>
     </image>
+    
+    <item>
+      <title>Constantin Philippenko</title>
+      <link>https://redeem-pepria.github.io/fr/author/constantin-philippenko/</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/author/constantin-philippenko/</guid>
+      <description>&lt;p&gt;I am a postdoctoral researcher at &lt;a href=&#34;https://www.di.ens.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DI ENS&lt;/a&gt; and &lt;a href=&#34;https://www.inria.fr/fr/centre-inria-de-paris&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Inria Paris&lt;/a&gt; working with &lt;a href=&#34;https://kscaman.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kevin Scaman&lt;/a&gt; and &lt;a href=&#34;https://www.di.ens.fr/laurent.massoulie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laurent Massoulié&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I obtained my Ph.D. in &amp;ldquo;Applied Mathematics and Computer Science&amp;rdquo; from &lt;a href=&#34;https://www.polytechnique.edu/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;École Polytechnique&lt;/a&gt; (Paris)
+under the joint supervision of &lt;a href=&#34;https://scholar.google.fr/citations?user=_XE1LvQAAAAJ&amp;amp;hl=fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eric Moulines&lt;/a&gt; and
+&lt;a href=&#34;http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aymeric Dieuleveut&lt;/a&gt;, professors at the &lt;a href=&#34;https://portail.polytechnique.edu/cmap/fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CMAP laboratory&lt;/a&gt; of École polytechnique.&lt;/p&gt;
+&lt;p&gt;The goal of the thesis is to focus simultaneously on two challenges of federated learning (i.e. machine learning distributed across millions of devices):&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;reducing the cost of communication by doing bidirectional compression,&lt;/li&gt;
+&lt;li&gt;while considering a heterogeneous setting.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I graduated from &lt;a href=&#34;https://ensimag.grenoble-inp.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ensimag&lt;/a&gt; (Grenoble) with a specialisation in computer science, applied mathematics and 3D animation.&lt;/p&gt;
+&lt;p&gt;I also had the opportunity to do a six-month academic exchange with the &lt;a href=&#34;https://mipt.ru/english/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIPT&lt;/a&gt; (Moscow) to study statistics, machine learning and image recognition under the supervision of &lt;a href=&#34;https://scholar.google.ru/citations?user=3TpENmIAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vadim Strijov&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>In-Depth Analysis of Low-rank Matrix Factorisation in a Federated Setting</title>
