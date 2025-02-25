@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexandre Rapetti | The REDEEM project</title>
+    <link>https://redeem-pepria.github.io/en/author/alexandre-rapetti/</link>
+      <atom:link href="https://redeem-pepria.github.io/en/author/alexandre-rapetti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexandre Rapetti</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://redeem-pepria.github.io/en/author/alexandre-rapetti/avatar_hu_f703a8f660334379.png</url>
+      <title>Alexandre Rapetti</title>
+      <link>https://redeem-pepria.github.io/en/author/alexandre-rapetti/</link>
+    </image>
+    
+    <item>
+      <title>Alexandre Rapetti</title>
+      <link>https://redeem-pepria.github.io/en/author/alexandre-rapetti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/en/author/alexandre-rapetti/</guid>
+      <description>&lt;p&gt;Alexandre Rapetti has been a researcher at CEA LIST since 2024. He completed his PhD in Computer Science at Aix-Marseille University in 2023, conducted at CEA LIST under the supervision of Alessia Milani, Professor at Aix-Marseille University, and the guidance of Antonella Del Pozzo, Researcher at CEA LIST. His research focuses on Distributed Computing, with a particular interest in Byzantine, Fault Tolerance and Privacy-Preserving techniques.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1429,6 +1429,19 @@
                 href="https://redeem-pepria.github.io/fr/admin/"
                 />
   </url><url>
+    <loc>https://redeem-pepria.github.io/fr/author/alexandre-rapetti/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/author/alexandre-rapetti/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/author/alexandre-rapetti/"
+                />
+  </url><url>
     <loc>https://redeem-pepria.github.io/fr/author/antonella-del-pozzo/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
