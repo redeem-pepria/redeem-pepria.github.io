@@ -7,10 +7,18 @@
     <description>César Sabater</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
+      <url>https://redeem-pepria.github.io/en/author/cesar-sabater/avatar_hu_757b7b980055355d.jpg</url>
       <title>César Sabater</title>
       <link>https://redeem-pepria.github.io/en/author/cesar-sabater/</link>
     </image>
+    
+    <item>
+      <title>César Sabater</title>
+      <link>https://redeem-pepria.github.io/en/author/cesar-sabater/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/en/author/cesar-sabater/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Secure Federated Graph-Filtering for Recommender Systems</title>
