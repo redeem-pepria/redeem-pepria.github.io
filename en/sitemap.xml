@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://redeem-pepria.github.io/en/authors/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -15,6 +15,38 @@
                 hreflang="en-us"
                 href="https://redeem-pepria.github.io/en/authors/"
                 />
+  </url><url>
+    <loc>https://redeem-pepria.github.io/en/author/cedric-gouy-pailler/</loc>
+    <lastmod>2025-09-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/author/cedric-gouy-pailler/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/author/cedric-gouy-pailler/"
+                />
+  </url><url>
+    <loc>https://redeem-pepria.github.io/en/post/</loc>
+    <lastmod>2025-09-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/post/"
+                />
+  </url><url>
+    <loc>https://redeem-pepria.github.io/en/post/2025-09-24_retreat/</loc>
+    <lastmod>2025-09-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://redeem-pepria.github.io/en/tag/cea-distrai/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
@@ -140,34 +172,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://redeem-pepria.github.io/en/tags/"
-                />
-  </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/cedric-gouy-pailler/</loc>
-    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/cedric-gouy-pailler/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/cedric-gouy-pailler/"
-                />
-  </url><url>
-    <loc>https://redeem-pepria.github.io/en/post/</loc>
-    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/post/"
                 />
   </url><url>
     <loc>https://redeem-pepria.github.io/en/post/2025-03-18_pepria-days/</loc>
