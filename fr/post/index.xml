@@ -5,12 +5,181 @@
     <link>https://redeem-pepria.github.io/fr/post/</link>
       <atom:link href="https://redeem-pepria.github.io/fr/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Sat, 20 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
       <title>Latest News</title>
       <link>https://redeem-pepria.github.io/fr/post/</link>
     </image>
+    
+    <item>
+      <title>REDEEM retreat in Annecy</title>
+      <link>https://redeem-pepria.github.io/fr/post/2025-09-24_retreat/</link>
+      <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/post/2025-09-24_retreat/</guid>
+      <description>&lt;p&gt;We are pleased to announce the &lt;strong&gt;REDEEM project retreat&lt;/strong&gt; taking place in &lt;strong&gt;Annecy&lt;/strong&gt;.&lt;br&gt;
+This two-day seminar will bring together project members and partners to present, exchange, and discuss ongoing research on decentralized, robust and privacy-preserving learning.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;venue&#34;&gt;Venue&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Centre Jean XXIII&lt;/strong&gt;&lt;br&gt;
+10 Chemin du Bray&lt;br&gt;
+74940 Annecy-le-Vieux&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;program&#34;&gt;Program&lt;/h2&gt;
+&lt;h3 id=&#34;day-1--september-24-2025&#34;&gt;Day 1 — September 24, 2025&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Time&lt;/th&gt;
+          &lt;th&gt;Speaker&lt;/th&gt;
+          &lt;th&gt;Title&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;09:00-09:30&lt;/td&gt;
+          &lt;td&gt;—&lt;/td&gt;
+          &lt;td&gt;Arrival&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;09:30-10:00&lt;/td&gt;
+          &lt;td&gt;Cédric Gouy-Pailler&lt;/td&gt;
+          &lt;td&gt;Introduction &amp;amp; Combining homomorphic encryption and differential privacy in federated learning&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10:00-10:30&lt;/td&gt;
+          &lt;td&gt;Jan Ramon&lt;/td&gt;
+          &lt;td&gt;TBD&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10:30-11:00&lt;/td&gt;
+          &lt;td&gt;—&lt;/td&gt;
+          &lt;td&gt;Break&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11:00-11:20&lt;/td&gt;
+          &lt;td&gt;César Sabater&lt;/td&gt;
+          &lt;td&gt;Decentralized and Private Mean Estimation under Dropout&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11:20-12:00&lt;/td&gt;
+          &lt;td&gt;Ousmane Touat&lt;/td&gt;
+          &lt;td&gt;Towards Byzantine Resilient and Privacy Preserving Decentralized Learning&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11:40-12:00&lt;/td&gt;
+          &lt;td&gt;Johan Leydet&lt;/td&gt;
+          &lt;td&gt;Exploiting Nearest Neighbor Mixing: Nearest Neighbor Poisoning&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;12:00-13:30&lt;/td&gt;
+          &lt;td&gt;—&lt;/td&gt;
+          &lt;td&gt;Lunch&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;13:30-13:50&lt;/td&gt;
+          &lt;td&gt;Mathieu Gestin&lt;/td&gt;
+          &lt;td&gt;Privacy-Preserving Federated Averaging with Byzantine Aggregators and Asynchronous Communication&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;13:50-14:10&lt;/td&gt;
+          &lt;td&gt;Renaud Gaucher&lt;/td&gt;
+          &lt;td&gt;A unified Breakdown analysis of Byzantine Robust Gossip&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14:10-14:30&lt;/td&gt;
+          &lt;td&gt;Mohamed Maouche&lt;/td&gt;
+          &lt;td&gt;GRANITE : a Byzantine-Resilient Dynamic Gossip Learning Framework&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14:30-14:50&lt;/td&gt;
+          &lt;td&gt;—&lt;/td&gt;
+          &lt;td&gt;Break&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14:50-15:10&lt;/td&gt;
+          &lt;td&gt;Hadrien Hendrikx&lt;/td&gt;
+          &lt;td&gt;Benchmarks for decentralized optimization&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15:10-15:40&lt;/td&gt;
+          &lt;td&gt;Paul Mangold&lt;/td&gt;
+          &lt;td&gt;Federated Reinforcement Learning&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15:40-16:00&lt;/td&gt;
+          &lt;td&gt;Brandon Morsqueda&lt;/td&gt;
+          &lt;td&gt;Privacy-preserving decentralized learning with trustlessness: A survey&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;16:00-20:00&lt;/td&gt;
+          &lt;td&gt;—&lt;/td&gt;
+          &lt;td&gt;Social activities&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;20:00&lt;/td&gt;
+          &lt;td&gt;—&lt;/td&gt;
+          &lt;td&gt;Dinner — &lt;em&gt;Brasserie Saint Maurice, 9 rue du Collège Chapuisien, 74000 Annecy&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;day-2--september-25-2025&#34;&gt;Day 2 — September 25, 2025&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Time&lt;/th&gt;
+          &lt;th&gt;Speaker&lt;/th&gt;
+          &lt;th&gt;Title&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;09:30-09:50&lt;/td&gt;
+          &lt;td&gt;Jean Baptiste Fest&lt;/td&gt;
+          &lt;td&gt;Decentralized Optimization Mean-field Approaches&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;09:50-10:05&lt;/td&gt;
+          &lt;td&gt;Lucas Versini&lt;/td&gt;
+          &lt;td&gt;A Markov Chain Analysis of Stochastic Algorithms in Decentralized Learning&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10:05-10:30&lt;/td&gt;
+          &lt;td&gt;—&lt;/td&gt;
+          &lt;td&gt;Break&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10:30-11:00&lt;/td&gt;
+          &lt;td&gt;Antoine Souloumiac&lt;/td&gt;
+          &lt;td&gt;TBD&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11:00-11:10&lt;/td&gt;
+          &lt;td&gt;Mohamed Elmondhir Chaal&lt;/td&gt;
+          &lt;td&gt;Cost efficient Decentralized FL: survey&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11:10-11:30&lt;/td&gt;
+          &lt;td&gt;Arnaud Descours&lt;/td&gt;
+          &lt;td&gt;Gradient Projection onto Historical Descent Directions for Communication-Efficient FL&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11:30-11:50&lt;/td&gt;
+          &lt;td&gt;Cédric Prigent&lt;/td&gt;
+          &lt;td&gt;Efficient Federated Learning Clustering with Local Feature Extraction&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;12:00-&amp;hellip;&lt;/td&gt;
+          &lt;td&gt;—&lt;/td&gt;
+          &lt;td&gt;Lunch &amp;amp; Departure&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;We look forward to welcoming you in Annecy for two days of scientific exchange and collaboration.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>PEPR IA Days</title>

@@ -47,6 +47,16 @@
     <loc>https://redeem-pepria.github.io/en/post/2025-09-24_retreat/</loc>
     <lastmod>2025-09-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/post/2025-09-24_retreat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/post/2025-09-24_retreat/"
+                />
   </url><url>
     <loc>https://redeem-pepria.github.io/en/tag/cea-distrai/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
