@@ -1484,6 +1484,19 @@
                 href="https://redeem-pepria.github.io/fr/author/alexandre-rapetti/"
                 />
   </url><url>
+    <loc>https://redeem-pepria.github.io/fr/author/alice-batte/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/author/alice-batte/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/author/alice-batte/"
+                />
+  </url><url>
     <loc>https://redeem-pepria.github.io/fr/author/antonella-del-pozzo/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -1547,6 +1560,32 @@
                 rel="alternate"
                 hreflang="fr-FR"
                 href="https://redeem-pepria.github.io/fr/author/jean-baptiste-fest/"
+                />
+  </url><url>
+    <loc>https://redeem-pepria.github.io/fr/author/mathieu-gestin/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/author/mathieu-gestin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/author/mathieu-gestin/"
+                />
+  </url><url>
+    <loc>https://redeem-pepria.github.io/fr/author/oudom-kem/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/author/oudom-kem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/author/oudom-kem/"
                 />
   </url><url>
     <loc>https://redeem-pepria.github.io/fr/redeem/</loc>
