@@ -5,7 +5,7 @@
     <link>https://redeem-pepria.github.io/fr/author/jan-ramon/</link>
       <atom:link href="https://redeem-pepria.github.io/fr/author/jan-ramon/index.xml" rel="self" type="application/rss+xml" />
     <description>Jan Ramon</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://redeem-pepria.github.io/fr/author/jan-ramon/avatar_hu_ad66f903a00bc778.jpg</url>
       <title>Jan Ramon</title>
@@ -13,20 +13,36 @@
     </image>
     
     <item>
-      <title>Honest Fraction Differential Privacy</title>
-      <link>https://redeem-pepria.github.io/fr/publication/taibi-honest-fraction-differential-2024/</link>
-      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://redeem-pepria.github.io/fr/publication/taibi-honest-fraction-differential-2024/</guid>
+      <title>Dropout-Robust Mechanisms for Differentially Private and Fully Decentralized Mean Estimation</title>
+      <link>https://redeem-pepria.github.io/fr/publication/sabater-dropout-robust-mechanisms-differentially-2025/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/sabater-dropout-robust-mechanisms-differentially-2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jan Ramon</title>
       <link>https://redeem-pepria.github.io/fr/author/jan-ramon/</link>
-      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://redeem-pepria.github.io/fr/author/jan-ramon/</guid>
       <description>&lt;p&gt;To be completed&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A Survey on Verifiable Cross-Silo Federated Learning</title>
+      <link>https://redeem-pepria.github.io/fr/publication/korneev-survey-verifiable-cross-silo-2025/</link>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/korneev-survey-verifiable-cross-silo-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Honest Fraction Differential Privacy</title>
+      <link>https://redeem-pepria.github.io/fr/publication/taibi-honest-fraction-differential-2024/</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/taibi-honest-fraction-differential-2024/</guid>
+      <description></description>
     </item>
     
   </channel>

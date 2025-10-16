@@ -5,7 +5,7 @@
     <link>https://redeem-pepria.github.io/fr/author/kevin-scaman/</link>
       <atom:link href="https://redeem-pepria.github.io/fr/author/kevin-scaman/index.xml" rel="self" type="application/rss+xml" />
     <description>Kevin Scaman</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Fri, 13 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://redeem-pepria.github.io/fr/author/kevin-scaman/avatar_hu_63af9df40557fbd8.jpg</url>
       <title>Kevin Scaman</title>
@@ -13,20 +13,36 @@
     </image>
     
     <item>
-      <title>In-Depth Analysis of Low-rank Matrix Factorisation in a Federated Setting</title>
-      <link>https://redeem-pepria.github.io/fr/publication/philippenko-indepth-analysis-lowrank-2024/</link>
-      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://redeem-pepria.github.io/fr/publication/philippenko-indepth-analysis-lowrank-2024/</guid>
+      <title>Adaptive Collaboration for Online Personalized Distributed Learning with Heterogeneous Clients</title>
+      <link>https://redeem-pepria.github.io/fr/publication/philippenko-adaptive-collaboration-online-2025/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/philippenko-adaptive-collaboration-online-2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kevin Scaman</title>
       <link>https://redeem-pepria.github.io/fr/author/kevin-scaman/</link>
-      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://redeem-pepria.github.io/fr/author/kevin-scaman/</guid>
       <description>&lt;p&gt;To be completed&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>In-Depth Analysis of Low-rank Matrix Factorisation in a Federated Setting</title>
+      <link>https://redeem-pepria.github.io/fr/publication/philippenko-indepth-analysis-lowrank-2025/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/philippenko-indepth-analysis-lowrank-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-Depth Analysis of Low-rank Matrix Factorisation in a Federated Setting</title>
+      <link>https://redeem-pepria.github.io/fr/publication/philippenko-indepth-analysis-lowrank-2024/</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/philippenko-indepth-analysis-lowrank-2024/</guid>
+      <description></description>
     </item>
     
     <item>

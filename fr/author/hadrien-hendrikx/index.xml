@@ -5,12 +5,20 @@
     <link>https://redeem-pepria.github.io/fr/author/hadrien-hendrikx/</link>
       <atom:link href="https://redeem-pepria.github.io/fr/author/hadrien-hendrikx/index.xml" rel="self" type="application/rss+xml" />
     <description>Hadrien Hendrikx</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Mon, 14 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
       <title>Hadrien Hendrikx</title>
       <link>https://redeem-pepria.github.io/fr/author/hadrien-hendrikx/</link>
     </image>
+    
+    <item>
+      <title>Unified Breakdown Analysis for Byzantine Robust Gossip</title>
+      <link>https://redeem-pepria.github.io/fr/publication/gaucher-unified-breakdown-analysis-2025/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/gaucher-unified-breakdown-analysis-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Achieving Optimal Breakdown for Byzantine Robust Gossip</title>

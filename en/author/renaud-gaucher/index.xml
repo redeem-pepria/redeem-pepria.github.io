@@ -5,7 +5,7 @@
     <link>https://redeem-pepria.github.io/en/author/renaud-gaucher/</link>
       <atom:link href="https://redeem-pepria.github.io/en/author/renaud-gaucher/index.xml" rel="self" type="application/rss+xml" />
     <description>Renaud Gaucher</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://redeem-pepria.github.io/en/author/renaud-gaucher/avatar_hu_fc5596b8faed6765.jpg</url>
       <title>Renaud Gaucher</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Achieving Optimal Breakdown for Byzantine Robust Gossip</title>
-      <link>https://redeem-pepria.github.io/en/publication/gaucher-achieving-optimal-breakdown-2024/</link>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://redeem-pepria.github.io/en/publication/gaucher-achieving-optimal-breakdown-2024/</guid>
+      <title>Renaud Gaucher</title>
+      <link>https://redeem-pepria.github.io/en/author/renaud-gaucher/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/en/author/renaud-gaucher/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Renaud Gaucher</title>
-      <link>https://redeem-pepria.github.io/en/author/renaud-gaucher/</link>
+      <title>Unified Breakdown Analysis for Byzantine Robust Gossip</title>
+      <link>https://redeem-pepria.github.io/en/publication/gaucher-unified-breakdown-analysis-2025/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/en/publication/gaucher-unified-breakdown-analysis-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Achieving Optimal Breakdown for Byzantine Robust Gossip</title>
+      <link>https://redeem-pepria.github.io/en/publication/gaucher-achieving-optimal-breakdown-2024/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://redeem-pepria.github.io/en/author/renaud-gaucher/</guid>
+      <guid>https://redeem-pepria.github.io/en/publication/gaucher-achieving-optimal-breakdown-2024/</guid>
       <description></description>
     </item>
     

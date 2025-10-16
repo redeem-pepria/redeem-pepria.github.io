@@ -5,7 +5,7 @@
     <link>https://redeem-pepria.github.io/en/author/batiste-le-bars/</link>
       <atom:link href="https://redeem-pepria.github.io/en/author/batiste-le-bars/index.xml" rel="self" type="application/rss+xml" />
     <description>Batiste Le Bars</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://redeem-pepria.github.io/en/author/batiste-le-bars/avatar_hu_52cf7a86304bfd9d.jpg</url>
       <title>Batiste Le Bars</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Adaptive Collaboration for Online Personalized Distributed Learning with Heterogeneous Clients</title>
+      <link>https://redeem-pepria.github.io/en/publication/philippenko-adaptive-collaboration-online-2025/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/en/publication/philippenko-adaptive-collaboration-online-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Batiste Le Bars</title>
       <link>https://redeem-pepria.github.io/en/author/batiste-le-bars/</link>
-      <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://redeem-pepria.github.io/en/author/batiste-le-bars/</guid>
       <description></description>
     </item>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FOS: Computer and Information Sciences | The REDEEM project</title>
+    <link>https://redeem-pepria.github.io/en/tag/fos-computer-and-information-sciences/</link>
+      <atom:link href="https://redeem-pepria.github.io/en/tag/fos-computer-and-information-sciences/index.xml" rel="self" type="application/rss+xml" />
+    <description>FOS: Computer and Information Sciences</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
+      <title>FOS: Computer and Information Sciences</title>
+      <link>https://redeem-pepria.github.io/en/tag/fos-computer-and-information-sciences/</link>
+    </image>
+    
+    <item>
+      <title>Fedivertex: A Graph Dataset Based on Decentralized Social Networks for Trustworthy Machine Learning</title>
+      <link>https://redeem-pepria.github.io/en/publication/damie-fedivertex-graph-dataset-2025/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/en/publication/damie-fedivertex-graph-dataset-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

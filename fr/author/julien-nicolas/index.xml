@@ -5,7 +5,7 @@
     <link>https://redeem-pepria.github.io/fr/author/julien-nicolas/</link>
       <atom:link href="https://redeem-pepria.github.io/fr/author/julien-nicolas/index.xml" rel="self" type="application/rss+xml" />
     <description>Julien Nicolas</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://redeem-pepria.github.io/fr/author/julien-nicolas/avatar_hu_ce66c7fe0897f350.jpg</url>
       <title>Julien Nicolas</title>
@@ -15,10 +15,18 @@
     <item>
       <title>Julien Nicolas</title>
       <link>https://redeem-pepria.github.io/fr/author/julien-nicolas/</link>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://redeem-pepria.github.io/fr/author/julien-nicolas/</guid>
       <description>&lt;p&gt;To be completed&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>PriviRec: Confidential and Decentralized Graph Filtering for Recommender Systems</title>
+      <link>https://redeem-pepria.github.io/fr/publication/nicolas-privi-rec-confidential-decentralized-2025/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/nicolas-privi-rec-confidential-decentralized-2025/</guid>
+      <description></description>
     </item>
     
     <item>

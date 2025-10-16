@@ -5,7 +5,7 @@
     <link>https://redeem-pepria.github.io/fr/publication/</link>
       <atom:link href="https://redeem-pepria.github.io/fr/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
       <title>Publications</title>
@@ -13,10 +13,114 @@
     </image>
     
     <item>
+      <title>PriviRec: Confidential and Decentralized Graph Filtering for Recommender Systems</title>
+      <link>https://redeem-pepria.github.io/fr/publication/nicolas-privi-rec-confidential-decentralized-2025/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/nicolas-privi-rec-confidential-decentralized-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unified Breakdown Analysis for Byzantine Robust Gossip</title>
+      <link>https://redeem-pepria.github.io/fr/publication/gaucher-unified-breakdown-analysis-2025/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/gaucher-unified-breakdown-analysis-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dropout-Robust Mechanisms for Differentially Private and Fully Decentralized Mean Estimation</title>
+      <link>https://redeem-pepria.github.io/fr/publication/sabater-dropout-robust-mechanisms-differentially-2025/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/sabater-dropout-robust-mechanisms-differentially-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fedivertex: A Graph Dataset Based on Decentralized Social Networks for Trustworthy Machine Learning</title>
+      <link>https://redeem-pepria.github.io/fr/publication/damie-fedivertex-graph-dataset-2025/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/damie-fedivertex-graph-dataset-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regularizing Gradient Reconstruction Attacks in Federated Averaging</title>
+      <link>https://redeem-pepria.github.io/fr/publication/jobic-regularizing-gradient-reconstruction-2025-a/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/jobic-regularizing-gradient-reconstruction-2025-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameterized Restless Temporal Path</title>
+      <link>https://redeem-pepria.github.io/fr/publication/cauvi-parameterized-restless-temporal-2025/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/cauvi-parameterized-restless-temporal-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Collaboration for Online Personalized Distributed Learning with Heterogeneous Clients</title>
+      <link>https://redeem-pepria.github.io/fr/publication/philippenko-adaptive-collaboration-online-2025/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/philippenko-adaptive-collaboration-online-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Majorize-Minimization: Beyond Parameter Aggregation</title>
+      <link>https://redeem-pepria.github.io/fr/publication/dieuleveut-federated-majorize-minimization-parameter-2025/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/dieuleveut-federated-majorize-minimization-parameter-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring Communities of Interest in Collaborative Learning-based Recommender Systems</title>
+      <link>https://redeem-pepria.github.io/fr/publication/belal-inferring-communities-interest-2025/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/belal-inferring-communities-interest-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitigation of Sybil-based Poisoning Attacks in Permissionless Decentralized Learning</title>
+      <link>https://redeem-pepria.github.io/fr/publication/mosquedagonzalez-mitigation-sybilbased-poisoning-2025-a/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/mosquedagonzalez-mitigation-sybilbased-poisoning-2025-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contributions à la robustesse, la sécurité et la confidentialité en apprentissage statistique</title>
+      <link>https://redeem-pepria.github.io/fr/publication/gouy-pailler-contributions-robustesse-securite-2025/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/gouy-pailler-contributions-robustesse-securite-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Decentralized Federated Dataset Dictionary Learning for Multi-Source Domain Adaptation</title>
       <link>https://redeem-pepria.github.io/fr/publication/clain-decentralized-federated-dataset-2025/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://redeem-pepria.github.io/fr/publication/clain-decentralized-federated-dataset-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey on Verifiable Cross-Silo Federated Learning</title>
+      <link>https://redeem-pepria.github.io/fr/publication/korneev-survey-verifiable-cross-silo-2025/</link>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/korneev-survey-verifiable-cross-silo-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-Depth Analysis of Low-rank Matrix Factorisation in a Federated Setting</title>
+      <link>https://redeem-pepria.github.io/fr/publication/philippenko-indepth-analysis-lowrank-2025/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/philippenko-indepth-analysis-lowrank-2025/</guid>
       <description></description>
     </item>
     
@@ -33,6 +137,14 @@
       <link>https://redeem-pepria.github.io/fr/publication/dragan-certificates-subquadratic-time-computation-2025/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://redeem-pepria.github.io/fr/publication/dragan-certificates-subquadratic-time-computation-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GRANITE : A Byzantine-Resilient Dynamic Gossip Learning Framework</title>
+      <link>https://redeem-pepria.github.io/fr/publication/belal-granite-byzantine-resilient-dynamic-2025-a/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/belal-granite-byzantine-resilient-dynamic-2025-a/</guid>
       <description></description>
     </item>
     
@@ -145,6 +257,14 @@
       <link>https://redeem-pepria.github.io/fr/publication/fraboni-sifu-sequential-informed-2024/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://redeem-pepria.github.io/fr/publication/fraboni-sifu-sequential-informed-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Dataset Dictionary Learning for Multi-Source Domain Adaptation</title>
+      <link>https://redeem-pepria.github.io/fr/publication/castellon-federated-dataset-dictionary-2024/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/publication/castellon-federated-dataset-dictionary-2024/</guid>
       <description></description>
     </item>
     

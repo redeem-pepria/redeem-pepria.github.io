@@ -5,7 +5,7 @@
     <link>https://redeem-pepria.github.io/en/author/cesar-sabater/</link>
       <atom:link href="https://redeem-pepria.github.io/en/author/cesar-sabater/index.xml" rel="self" type="application/rss+xml" />
     <description>César Sabater</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://redeem-pepria.github.io/en/author/cesar-sabater/avatar_hu_757b7b980055355d.jpg</url>
       <title>César Sabater</title>
@@ -15,8 +15,24 @@
     <item>
       <title>César Sabater</title>
       <link>https://redeem-pepria.github.io/en/author/cesar-sabater/</link>
-      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://redeem-pepria.github.io/en/author/cesar-sabater/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PriviRec: Confidential and Decentralized Graph Filtering for Recommender Systems</title>
+      <link>https://redeem-pepria.github.io/en/publication/nicolas-privi-rec-confidential-decentralized-2025/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/en/publication/nicolas-privi-rec-confidential-decentralized-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dropout-Robust Mechanisms for Differentially Private and Fully Decentralized Mean Estimation</title>
+      <link>https://redeem-pepria.github.io/en/publication/sabater-dropout-robust-mechanisms-differentially-2025/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/en/publication/sabater-dropout-robust-mechanisms-differentially-2025/</guid>
       <description></description>
     </item>
     

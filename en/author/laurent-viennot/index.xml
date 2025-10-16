@@ -5,12 +5,20 @@
     <link>https://redeem-pepria.github.io/en/author/laurent-viennot/</link>
       <atom:link href="https://redeem-pepria.github.io/en/author/laurent-viennot/index.xml" rel="self" type="application/rss+xml" />
     <description>Laurent Viennot</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
       <title>Laurent Viennot</title>
       <link>https://redeem-pepria.github.io/en/author/laurent-viennot/</link>
     </image>
+    
+    <item>
+      <title>Parameterized Restless Temporal Path</title>
+      <link>https://redeem-pepria.github.io/en/publication/cauvi-parameterized-restless-temporal-2025/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/en/publication/cauvi-parameterized-restless-temporal-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Certificates in P and Subquadratic-Time Computation of Radius, Diameter, and All Eccentricities in Graphs</title>

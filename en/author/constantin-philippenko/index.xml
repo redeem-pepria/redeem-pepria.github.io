@@ -5,7 +5,7 @@
     <link>https://redeem-pepria.github.io/en/author/constantin-philippenko/</link>
       <atom:link href="https://redeem-pepria.github.io/en/author/constantin-philippenko/index.xml" rel="self" type="application/rss+xml" />
     <description>Constantin Philippenko</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://redeem-pepria.github.io/en/author/constantin-philippenko/avatar_hu_c2a860b24863def7.jpg</url>
       <title>Constantin Philippenko</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Adaptive Collaboration for Online Personalized Distributed Learning with Heterogeneous Clients</title>
+      <link>https://redeem-pepria.github.io/en/publication/philippenko-adaptive-collaboration-online-2025/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/en/publication/philippenko-adaptive-collaboration-online-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Constantin Philippenko</title>
       <link>https://redeem-pepria.github.io/en/author/constantin-philippenko/</link>
-      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://redeem-pepria.github.io/en/author/constantin-philippenko/</guid>
       <description>&lt;p&gt;I am a postdoctoral researcher at &lt;a href=&#34;https://www.di.ens.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DI ENS&lt;/a&gt; and &lt;a href=&#34;https://www.inria.fr/fr/centre-inria-de-paris&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Inria Paris&lt;/a&gt; working with &lt;a href=&#34;https://kscaman.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kevin Scaman&lt;/a&gt; and &lt;a href=&#34;https://www.di.ens.fr/laurent.massoulie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laurent Massoulié&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I obtained my Ph.D. in &amp;ldquo;Applied Mathematics and Computer Science&amp;rdquo; from &lt;a href=&#34;https://www.polytechnique.edu/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;École Polytechnique&lt;/a&gt; (Paris)
@@ -29,6 +37,14 @@ under the joint supervision of &lt;a href=&#34;https://scholar.google.fr/citatio
 &lt;p&gt;I graduated from &lt;a href=&#34;https://ensimag.grenoble-inp.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ensimag&lt;/a&gt; (Grenoble) with a specialisation in computer science, applied mathematics and 3D animation.&lt;/p&gt;
 &lt;p&gt;I also had the opportunity to do a six-month academic exchange with the &lt;a href=&#34;https://mipt.ru/english/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIPT&lt;/a&gt; (Moscow) to study statistics, machine learning and image recognition under the supervision of &lt;a href=&#34;https://scholar.google.ru/citations?user=3TpENmIAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vadim Strijov&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>In-Depth Analysis of Low-rank Matrix Factorisation in a Federated Setting</title>
+      <link>https://redeem-pepria.github.io/en/publication/philippenko-indepth-analysis-lowrank-2025/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/en/publication/philippenko-indepth-analysis-lowrank-2025/</guid>
+      <description></description>
     </item>
     
     <item>

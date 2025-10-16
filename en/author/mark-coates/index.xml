@@ -5,12 +5,20 @@
     <link>https://redeem-pepria.github.io/en/author/mark-coates/</link>
       <atom:link href="https://redeem-pepria.github.io/en/author/mark-coates/index.xml" rel="self" type="application/rss+xml" />
     <description>Mark Coates</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
       <title>Mark Coates</title>
       <link>https://redeem-pepria.github.io/en/author/mark-coates/</link>
     </image>
+    
+    <item>
+      <title>PriviRec: Confidential and Decentralized Graph Filtering for Recommender Systems</title>
+      <link>https://redeem-pepria.github.io/en/publication/nicolas-privi-rec-confidential-decentralized-2025/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/en/publication/nicolas-privi-rec-confidential-decentralized-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Secure Federated Graph-Filtering for Recommender Systems</title>
