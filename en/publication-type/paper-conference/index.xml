@@ -5,12 +5,20 @@
     <link>https://redeem-pepria.github.io/en/publication-type/paper-conference/</link>
       <atom:link href="https://redeem-pepria.github.io/en/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
       <title>Paper-Conference</title>
       <link>https://redeem-pepria.github.io/en/publication-type/paper-conference/</link>
     </image>
+    
+    <item>
+      <title>COGNAC: Cooperative Graph-based Networked Agent Challenges for Multi-Agent Reinforcement Learning</title>
+      <link>https://redeem-pepria.github.io/en/publication/sintes-cognac-cooperative-graphbased-2025/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/en/publication/sintes-cognac-cooperative-graphbased-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PriviRec: Confidential and Decentralized Graph Filtering for Recommender Systems</title>
@@ -25,6 +33,14 @@
       <link>https://redeem-pepria.github.io/en/publication/gaucher-unified-breakdown-analysis-2025/</link>
       <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://redeem-pepria.github.io/en/publication/gaucher-unified-breakdown-analysis-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Label Leakage in Regression Federated Learning Using Cryptographic Tools</title>
+      <link>https://redeem-pepria.github.io/en/publication/jobic-label-leakage-regression-2025-a/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/en/publication/jobic-label-leakage-regression-2025-a/</guid>
       <description></description>
     </item>
     

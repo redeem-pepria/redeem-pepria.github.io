@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jules Sintes | The REDEEM project</title>
+    <link>https://redeem-pepria.github.io/en/author/jules-sintes/</link>
+      <atom:link href="https://redeem-pepria.github.io/en/author/jules-sintes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jules Sintes</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
+      <title>Jules Sintes</title>
+      <link>https://redeem-pepria.github.io/en/author/jules-sintes/</link>
+    </image>
+    
+    <item>
+      <title>COGNAC: Cooperative Graph-based Networked Agent Challenges for Multi-Agent Reinforcement Learning</title>
+      <link>https://redeem-pepria.github.io/en/publication/sintes-cognac-cooperative-graphbased-2025/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/en/publication/sintes-cognac-cooperative-graphbased-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

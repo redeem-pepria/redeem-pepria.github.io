@@ -2,8 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://redeem-pepria.github.io/en/author/ana-busic/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/author/ana-busic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/author/ana-busic/"
+                />
+  </url><url>
     <loc>https://redeem-pepria.github.io/en/authors/</loc>
-    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -14,6 +28,76 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://redeem-pepria.github.io/en/authors/"
+                />
+  </url><url>
+    <loc>https://redeem-pepria.github.io/en/publication/sintes-cognac-cooperative-graphbased-2025/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/publication/sintes-cognac-cooperative-graphbased-2025/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/publication/sintes-cognac-cooperative-graphbased-2025/"
+                />
+  </url><url>
+    <loc>https://redeem-pepria.github.io/en/author/jules-sintes/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/author/jules-sintes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/author/jules-sintes/"
+                />
+  </url><url>
+    <loc>https://redeem-pepria.github.io/en/publication-type/paper-conference/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/publication-type/paper-conference/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/publication-type/paper-conference/"
+                />
+  </url><url>
+    <loc>https://redeem-pepria.github.io/en/publication_types/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/publication_types/"
+                />
+  </url><url>
+    <loc>https://redeem-pepria.github.io/en/publication/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/publication/"
                 />
   </url><url>
     <loc>https://redeem-pepria.github.io/en/tag/bspm/</loc>
@@ -128,20 +212,6 @@
                 href="https://redeem-pepria.github.io/en/author/mohamed-maouche/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication-type/paper-conference/</loc>
-    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication-type/paper-conference/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication-type/paper-conference/"
-                />
-  </url><url>
     <loc>https://redeem-pepria.github.io/en/tag/privacy/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -168,34 +238,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://redeem-pepria.github.io/en/publication/nicolas-privi-rec-confidential-decentralized-2025/"
-                />
-  </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication_types/</loc>
-    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication_types/"
-                />
-  </url><url>
-    <loc>https://redeem-pepria.github.io/en/publication/</loc>
-    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/publication/"
                 />
   </url><url>
     <loc>https://redeem-pepria.github.io/en/tag/secure-aggregation/</loc>
@@ -294,6 +336,20 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://redeem-pepria.github.io/en/publication/gaucher-unified-breakdown-analysis-2025/"
+                />
+  </url><url>
+    <loc>https://redeem-pepria.github.io/en/author/aurelien-mayoue/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/author/aurelien-mayoue/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/author/aurelien-mayoue/"
                 />
   </url><url>
     <loc>https://redeem-pepria.github.io/en/tag/decentralized-mean-estimation/</loc>
@@ -408,6 +464,20 @@
                 href="https://redeem-pepria.github.io/en/author/jan-ramon/"
                 />
   </url><url>
+    <loc>https://redeem-pepria.github.io/en/publication/jobic-label-leakage-regression-2025-a/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/publication/jobic-label-leakage-regression-2025-a/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/publication/jobic-label-leakage-regression-2025-a/"
+                />
+  </url><url>
     <loc>https://redeem-pepria.github.io/en/tag/machine-learning-cs.lg/</loc>
     <lastmod>2025-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -448,6 +518,34 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://redeem-pepria.github.io/en/author/marc-damie/"
+                />
+  </url><url>
+    <loc>https://redeem-pepria.github.io/en/author/pierre-jobic/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/author/pierre-jobic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/author/pierre-jobic/"
+                />
+  </url><url>
+    <loc>https://redeem-pepria.github.io/en/author/sara-tucci-piergiovanni/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/author/sara-tucci-piergiovanni/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/author/sara-tucci-piergiovanni/"
                 />
   </url><url>
     <loc>https://redeem-pepria.github.io/en/tag/social-and-information-networks-cs.si/</loc>
@@ -506,34 +604,6 @@
                 href="https://redeem-pepria.github.io/en/post/2025-09-24_retreat/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/aurelien-mayoue/</loc>
-    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/aurelien-mayoue/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/aurelien-mayoue/"
-                />
-  </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/pierre-jobic/</loc>
-    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/pierre-jobic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/pierre-jobic/"
-                />
-  </url><url>
     <loc>https://redeem-pepria.github.io/en/publication/jobic-regularizing-gradient-reconstruction-2025-a/</loc>
     <lastmod>2025-08-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -546,20 +616,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://redeem-pepria.github.io/en/publication/jobic-regularizing-gradient-reconstruction-2025-a/"
-                />
-  </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/sara-tucci-piergiovanni/</loc>
-    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/sara-tucci-piergiovanni/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/sara-tucci-piergiovanni/"
                 />
   </url><url>
     <loc>https://redeem-pepria.github.io/en/tag/computer-science-computational-complexity/</loc>
