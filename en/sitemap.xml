@@ -2,6 +2,202 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://redeem-pepria.github.io/en/category/ai/</loc>
+    <lastmod>2026-02-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/category/ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/category/ai/"
+                />
+  </url><url>
+    <loc>https://redeem-pepria.github.io/en/post/2026-02-03_transnumeriques/</loc>
+    <lastmod>2026-02-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/post/2026-02-03_transnumeriques/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/post/2026-02-03_transnumeriques/"
+                />
+  </url><url>
+    <loc>https://redeem-pepria.github.io/en/authors/</loc>
+    <lastmod>2026-02-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/authors/"
+                />
+  </url><url>
+    <loc>https://redeem-pepria.github.io/en/categories/</loc>
+    <lastmod>2026-02-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/categories/"
+                />
+  </url><url>
+    <loc>https://redeem-pepria.github.io/en/author/cedric-gouy-pailler/</loc>
+    <lastmod>2026-02-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/author/cedric-gouy-pailler/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/author/cedric-gouy-pailler/"
+                />
+  </url><url>
+    <loc>https://redeem-pepria.github.io/en/category/cybersecurity/</loc>
+    <lastmod>2026-02-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/category/cybersecurity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/category/cybersecurity/"
+                />
+  </url><url>
+    <loc>https://redeem-pepria.github.io/en/category/events/</loc>
+    <lastmod>2026-02-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/category/events/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/category/events/"
+                />
+  </url><url>
+    <loc>https://redeem-pepria.github.io/en/tag/federated-learning/</loc>
+    <lastmod>2026-02-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/tag/federated-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/tag/federated-learning/"
+                />
+  </url><url>
+    <loc>https://redeem-pepria.github.io/en/post/</loc>
+    <lastmod>2026-02-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/post/"
+                />
+  </url><url>
+    <loc>https://redeem-pepria.github.io/en/tag/pepr/</loc>
+    <lastmod>2026-02-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/tag/pepr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/tag/pepr/"
+                />
+  </url><url>
+    <loc>https://redeem-pepria.github.io/en/tag/privacy/</loc>
+    <lastmod>2026-02-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/tag/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/tag/privacy/"
+                />
+  </url><url>
+    <loc>https://redeem-pepria.github.io/en/author/sonia-ben-mokhtar/</loc>
+    <lastmod>2026-02-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/author/sonia-ben-mokhtar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/author/sonia-ben-mokhtar/"
+                />
+  </url><url>
+    <loc>https://redeem-pepria.github.io/en/tags/</loc>
+    <lastmod>2026-02-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/tags/"
+                />
+  </url><url>
+    <loc>https://redeem-pepria.github.io/en/tag/trans-numeriques/</loc>
+    <lastmod>2026-02-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/tag/trans-numeriques/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/tag/trans-numeriques/"
+                />
+  </url><url>
     <loc>https://redeem-pepria.github.io/en/author/ana-busic/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -14,20 +210,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://redeem-pepria.github.io/en/author/ana-busic/"
-                />
-  </url><url>
-    <loc>https://redeem-pepria.github.io/en/authors/</loc>
-    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/authors/"
                 />
   </url><url>
     <loc>https://redeem-pepria.github.io/en/publication/sintes-cognac-cooperative-graphbased-2025/</loc>
@@ -212,20 +394,6 @@
                 href="https://redeem-pepria.github.io/en/author/mohamed-maouche/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/tag/privacy/</loc>
-    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/tag/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/tag/privacy/"
-                />
-  </url><url>
     <loc>https://redeem-pepria.github.io/en/publication/nicolas-privi-rec-confidential-decentralized-2025/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -252,34 +420,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://redeem-pepria.github.io/en/tag/secure-aggregation/"
-                />
-  </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/sonia-ben-mokhtar/</loc>
-    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/sonia-ben-mokhtar/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/sonia-ben-mokhtar/"
-                />
-  </url><url>
-    <loc>https://redeem-pepria.github.io/en/tags/</loc>
-    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/tags/"
                 />
   </url><url>
     <loc>https://redeem-pepria.github.io/en/author/aymeric-dieuleveut/</loc>
@@ -562,34 +702,6 @@
                 href="https://redeem-pepria.github.io/en/tag/social-and-information-networks-cs.si/"
                 />
   </url><url>
-    <loc>https://redeem-pepria.github.io/en/author/cedric-gouy-pailler/</loc>
-    <lastmod>2025-09-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/author/cedric-gouy-pailler/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/author/cedric-gouy-pailler/"
-                />
-  </url><url>
-    <loc>https://redeem-pepria.github.io/en/post/</loc>
-    <lastmod>2025-09-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/post/"
-                />
-  </url><url>
     <loc>https://redeem-pepria.github.io/en/post/2025-09-24_retreat/</loc>
     <lastmod>2025-09-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -770,20 +882,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://redeem-pepria.github.io/en/tag/cryptography-and-security-cs.cr/"
-                />
-  </url><url>
-    <loc>https://redeem-pepria.github.io/en/tag/federated-learning/</loc>
-    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/tag/federated-learning/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/tag/federated-learning/"
                 />
   </url><url>
     <loc>https://redeem-pepria.github.io/en/publication/dieuleveut-federated-majorize-minimization-parameter-2025/</loc>
@@ -2486,19 +2584,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://redeem-pepria.github.io/en/author/baptiste-goujaud/"
-                />
-  </url><url>
-    <loc>https://redeem-pepria.github.io/en/categories/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://redeem-pepria.github.io/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://redeem-pepria.github.io/en/categories/"
                 />
   </url><url>
     <loc>https://redeem-pepria.github.io/en/author/jean-baptiste-fest/</loc>

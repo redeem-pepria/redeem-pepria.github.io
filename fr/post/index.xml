@@ -5,12 +5,133 @@
     <link>https://redeem-pepria.github.io/fr/post/</link>
       <atom:link href="https://redeem-pepria.github.io/fr/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Sat, 20 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Tue, 03 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
       <title>Latest News</title>
       <link>https://redeem-pepria.github.io/fr/post/</link>
     </image>
+    
+    <item>
+      <title>Atelier aux Transnumériques 2026 : Résilience et confidentialité de l’IA et de l’IA distribuée</title>
+      <link>https://redeem-pepria.github.io/fr/post/2026-02-03_transnumeriques/</link>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/post/2026-02-03_transnumeriques/</guid>
+      <description>&lt;h2 id=&#34;présentation-de-lévénement&#34;&gt;Présentation de l&amp;rsquo;événement&lt;/h2&gt;
+&lt;p&gt;Cet atelier, organisé dans le cadre des &lt;strong&gt;Trans Numériques de Rennes&lt;/strong&gt; (du 2 au 5 Février 2026), traite de la résilience et la confidentialité de l’IA et de l’IA distribuée.&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;événement propose un regard croisé entre trois projets issus de trois &lt;strong&gt;PEPR&lt;/strong&gt; (Programmes et Équipements Prioritaires de Recherche) distincts :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Projet IPoP&lt;/strong&gt; (Interdisciplinary Project on Privacy) — &lt;em&gt;PEPR Cybersécurité&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Projet SSF-ML-DH&lt;/strong&gt; (Safe, Secure, and Fair Machine Learning in Healthcare) — &lt;em&gt;PEPR Santé Numérique&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Projet REDEEM&lt;/strong&gt; — &lt;em&gt;PEPR IA&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ce dialogue vise à couvrir largement les problématiques de l’IA de confiance et à identifier des synergies structurantes entre ces domaines.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;informations-pratiques&#34;&gt;Informations Pratiques&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Date :&lt;/strong&gt; Mardi 3 Février 2026&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lieu :&lt;/strong&gt; Couvent des Jacobins (Salle : Dortoirs), Rennes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Événement Parent :&lt;/strong&gt; Trans Numériques de Rennes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;programme-de-la-journée&#34;&gt;Programme de la journée&lt;/h2&gt;
+&lt;h3 id=&#34;session-1-1045--1245&#34;&gt;Session 1 [10:45 – 12:45]&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Horaire&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Sujet&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Intervenant(s)&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;10:45&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Présentation des projets IPoP, SSF-ML-DH et REDEEM&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;—&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;10:55&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Understanding the bias induced by Local Differential Privacy&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jean Dufraiche&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;11:15&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Privacy preserving Federated learning with Byzantine aggregators and asynchronous communications&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mathieu Gestin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;11:45&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Generalized Leverage Score for Scalable Assessment of Privacy Vulnerability&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Valentin Dorseuil&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;12:05&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;DecLearn: Python package for private decentralized learning&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Marc Tommasi&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;12:25&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Paname: Privacy Auditing of AI Models&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Aurélien Bellet &amp;amp; Antoine Boutet&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;session-2-1400--1745&#34;&gt;Session 2 [14:00 – 17:45]&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Horaire&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Sujet&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Intervenant(s)&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;14:00&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Three Flavors of Privacy Auditing&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Aurélien Bellet&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;14:30&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;PriviRec: Confidential and Decentralized Graph Filtering for Recommender Systems&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mohamed Maouche&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;15:00&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Unified Privacy Guarantees for Decentralized Learning via Matrix Factorization&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Dimitri Lereverend&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;15:30&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Pause&lt;/em&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;—&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;16:00&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Dropout-Robust Mechanisms for Differentially Private and Fully Decentralized Mean Estimation&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;César Sabater&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;16:30&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Certified Per-Instance Unlearning Using Individual Sensitivity Bounds&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Hanna Benarroch&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;17:00&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;On Scalable Confidential and Byzantine Robust Decentralized Learning&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Ousmane Touat&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;17:30&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Conclusion&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;—&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>REDEEM retreat in Annecy</title>
