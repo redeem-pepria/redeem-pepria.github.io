@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Postdoc | Projet REDEEM</title>
+    <link>https://redeem-pepria.github.io/fr/tag/postdoc/</link>
+      <atom:link href="https://redeem-pepria.github.io/fr/tag/postdoc/index.xml" rel="self" type="application/rss+xml" />
+    <description>Postdoc</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
+      <title>Postdoc</title>
+      <link>https://redeem-pepria.github.io/fr/tag/postdoc/</link>
+    </image>
+    
+    <item>
+      <title>Post-Doctoral Research Visit F/M privacy preserving federated learning with applications in medical domains</title>
+      <link>https://redeem-pepria.github.io/fr/joboffer/inria_janramon_postdoc/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/fr/joboffer/inria_janramon_postdoc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

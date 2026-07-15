@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My page | The REDEEM project</title>
+    <link>https://redeem-pepria.github.io/en/joboffer/</link>
+      <atom:link href="https://redeem-pepria.github.io/en/joboffer/index.xml" rel="self" type="application/rss+xml" />
+    <description>My page</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://redeem-pepria.github.io/media/logo_hu_81a3153741bfdea1.png</url>
+      <title>My page</title>
+      <link>https://redeem-pepria.github.io/en/joboffer/</link>
+    </image>
+    
+    <item>
+      <title>Engineer - Scientific programmer in privacy-preserving federate learning with applications in oncology</title>
+      <link>https://redeem-pepria.github.io/en/joboffer/inria_janramon_engineer/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/en/joboffer/inria_janramon_engineer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interships in privacy-preserving decentralized machine learning</title>
+      <link>https://redeem-pepria.github.io/en/joboffer/inria_janramon_interns/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/en/joboffer/inria_janramon_interns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD Position F/M PhD student on privacy-preserving federate learning with applications in oncology</title>
+      <link>https://redeem-pepria.github.io/en/joboffer/inria_janramon_phd/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/en/joboffer/inria_janramon_phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post-Doctoral Research Visit F/M privacy preserving federated learning with applications in medical domains</title>
+      <link>https://redeem-pepria.github.io/en/joboffer/inria_janramon_postdoc/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://redeem-pepria.github.io/en/joboffer/inria_janramon_postdoc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
