@@ -2557,6 +2557,19 @@
                 href="https://redeem-pepria.github.io/en/author/jean-baptiste-fest/"
                 />
   </url><url>
+    <loc>https://redeem-pepria.github.io/en/author/joey-bekkink/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://redeem-pepria.github.io/fr/author/joey-bekkink/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://redeem-pepria.github.io/en/author/joey-bekkink/"
+                />
+  </url><url>
     <loc>https://redeem-pepria.github.io/en/author/killian-bakong/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
